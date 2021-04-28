@@ -24,7 +24,7 @@ status-website:
   introMessage: Just a short overview about the infrastructure health.
   navbar:
     - title: Status
-      href: /
+      href: /cyconet-upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
