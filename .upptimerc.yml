@@ -12,9 +12,13 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: TCP ping dns.google
+    check: "tcp-ping"
     url: dns.google
+    port: 443
   - name: TCP ping 8.8.8.8
+    check: "tcp-ping"
     url: 8.8.8.8
+    port: 443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
