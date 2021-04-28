@@ -39,6 +39,7 @@ status-website:
   name: Cyconet Monitoring
   introTitle: "This sites reflects the status of some assets of cyconet.org."
   introMessage: Just a short overview about the infrastructure health.
+  # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
   i18n:
     footer: This page is part of [cyconet.org](https://www.cyconet.org)
   navbar:
