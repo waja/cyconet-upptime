@@ -3,14 +3,10 @@ owner: waja # Your GitHub organization or username, where this repository lives
 repo: cyconet-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: cyconet.org
+    url: https://www.cyconet.org
+  - name: cyconet.org Blog
+    url: https://log.cyconet.org
   - name: 1st Nameserver
     check: "tcp-ping"
     url: $NS1_HOST
@@ -19,6 +15,20 @@ sites:
     check: "tcp-ping"
     url: $NS2_HOST
     port: 53
+  - name: Mail SMTP
+    check: "tcp-ping"
+    url: $MAIL_HOST
+    port: 25
+  - name: Mail IMAP
+    check: "tcp-ping"
+    url: $MAIL_HOST
+    port: 143
+  - name: Mail SUBMISSION
+    check: "tcp-ping"
+    url: $MAIL_HOST
+    port: 587
+  - name: FTP repository archive
+    url: https://$FTP_ARCHIVE_HOST
 
 assignees:
   - waja
