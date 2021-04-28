@@ -27,8 +27,6 @@ status-website:
   # https://github.com/upptime/upptime/discussions/222#discussioncomment-302627
   robotsText: "User-agent: * \n Disallow: /"
   metaTags:
-    - name: "color-scheme"
-      content: "light"
     - name: "robots"
       content: "noindex"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -39,6 +37,7 @@ status-website:
   name: Cyconet Monitoring
   introTitle: "This sites reflects the status of some assets of cyconet.org."
   introMessage: Just a short overview about the cyconet infrastructure health.
+  theme: dark
   # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
   navbar:
     - title: Status
