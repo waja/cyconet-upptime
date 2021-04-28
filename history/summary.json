@@ -113,18 +113,18 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "traefik-router",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 346,
     "timeDay": 346,
     "timeWeek": 346,
     "timeMonth": 346,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2021-04-28": 38
+      "2021-04-28": 39
     }
   },
   {
@@ -187,18 +187,18 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "monitoring-platform",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 499,
     "timeDay": 499,
     "timeWeek": 499,
     "timeMonth": 499,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2021-04-28": 38
+      "2021-04-28": 39
     }
   },
   {
@@ -333,18 +333,18 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "shared-hosting",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-28": 38
+      "2021-04-28": 39
     }
   },
   {
