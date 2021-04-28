@@ -11,14 +11,14 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: TCP ping dns.google
+  - name: 1st Nameserver
     check: "tcp-ping"
-    url: dns.google
-    port: 443
-  - name: TCP ping 8.8.8.8
+    url: $NS1_HOST
+    port: 53
+  - name: 2nd Nameserver
     check: "tcp-ping"
-    url: 8.8.8.8
-    port: 443
+    url: $NS2_HOST
+    port: 53
 
 assignees:
   - waja
