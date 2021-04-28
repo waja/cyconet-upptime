@@ -37,7 +37,7 @@ status-website:
   name: Cyconet Monitoring
   introTitle: "This sites reflects the status of some assets of cyconet.org."
   introMessage: Just a short overview about the cyconet infrastructure health.
-  theme: dark
+  theme: ocean
   # https://upptime.js.org/docs/faq/#how-do-i-remove-the-powered-by-upptime-in-the-footer-of-my-website
   navbar:
     - title: Status
