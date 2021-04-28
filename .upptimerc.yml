@@ -25,6 +25,8 @@ sites:
     port: 48044
   - name: Traefik router
     url: https://$TREAFIK_URI
+    expectedStatusCodes:
+      - 401
   - name: Mail SMTP
     check: "tcp-ping"
     url: $MAIL_HOST
@@ -39,6 +41,8 @@ sites:
     port: 587
   - name: Monitoring platform
     url: https://$BB_HOST/icinga/
+    expectedStatusCodes:
+      - 401
   - name: Nextcloud platform
     url: https://$NEXTCLOUD_HOST
   - name: Metrics platform
