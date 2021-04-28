@@ -61,6 +61,43 @@ sites:
     check: "tcp-ping"
     url: $HO1_HOST
     port: 48044
+  - name: Cloud at Cost 01 (Debian 10)
+    check: "tcp-ping"
+    url: $CAC01_HOST
+    port: 48044
+  - name: Cloud at Cost 02 (Debian 10)
+    check: "tcp-ping"
+    url: $CAC02_HOST
+    port: 48044
+  - name: Cloud at Cost 03 (Debian 10)
+    check: "tcp-ping"
+    url: $CAC03_HOST
+    port: 48044
+  - name: Cloud at Cost 04 (Debian 11)
+    check: "tcp-ping"
+    url: $CAC04_HOST
+    port: 48044
+  - name: Cloud at Cost 11 (Ubuntu 20.04 LTS)
+    check: "tcp-ping"
+    url: $CAC11_HOST
+    port: 48044
+  - name: Cloud at Cost 21 (Ubuntu 20.04 LTS)
+    check: "tcp-ping"
+    url: $CAC21_HOST
+    port: 48044
+  - name: Cloud at Cost 22 (CentOS 8)
+    check: "tcp-ping"
+    url: $CAC22_HOST
+    port: 22
+  - name: Oracle Cloud 31 (Oracle Linux 8)
+    check: "tcp-ping"
+    url: $OC31_HOST
+    port: 48044
+  - name: Oracle Cloud 32 (Ubuntu 20.04 LTS)
+    check: "tcp-ping"
+    url: $OC32_HOST
+    port: 48044
+
 
 assignees:
   - waja
