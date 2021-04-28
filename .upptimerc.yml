@@ -15,6 +15,16 @@ sites:
     check: "tcp-ping"
     url: $NS2_HOST
     port: 53
+  - name: Cloud platform
+    check: "tcp-ping"
+    url: $CLOUD_HOST
+    port: 25
+  - name: Container platform
+    check: "tcp-ping"
+    url: $CONTAINER_HOST
+    port: 48044
+  - name: Traefik router
+    url: https://$TREAFIK_URI
   - name: Mail SMTP
     check: "tcp-ping"
     url: $MAIL_HOST
@@ -27,8 +37,30 @@ sites:
     check: "tcp-ping"
     url: $MAIL_HOST
     port: 587
+  - name: Monitoring platform
+    url: https://$BB_HOST/icinga/
+  - name: Nextcloud platform
+    url: https://$NEXTCLOUD_HOST
+  - name: Metrics platform
+    url: https://$METRICS_HOST
+  - name: Portainer platform
+    url: https://$CONTAINER_HOST/ui/
+  - name: Paste system
+    url: https://$PASTE_HOST
   - name: FTP repository archive
     url: https://$FTP_ARCHIVE_HOST
+  - name: Gitlab
+    url: https://$GITLAB_HOST
+  - name: Development infrastructure
+    check: "tcp-ping"
+    url: $U9D_HOST
+    port: 5000
+  - name: Shared hosting
+    url: https://$SHARED_HOST
+  - name: Homeoffice 1
+    check: "tcp-ping"
+    url: $HO1_HOST
+    port: 48044
 
 assignees:
   - waja
