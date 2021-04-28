@@ -20,21 +20,51 @@ sites:
     url: 8.8.8.8
     port: 443
 
+assignees:
+  - waja
+
 status-website:
+  # https://github.com/upptime/upptime/discussions/222#discussioncomment-302627
+  robotsText: "User-agent: * \n Disallow: /"
+  metaTags:
+    - name: "color-scheme"
+      content: "light"
+    - name: "robots"
+      content: "noindex"
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /cyconet-upptime
-  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://avatars.githubusercontent.com/u/1449568
   name: Cyconet Monitoring
   introTitle: "This sites reflects the status of some assets of cyconet.org."
   introMessage: Just a short overview about the infrastructure health.
+  i18n:
+    footer: This page is part of [cyconet.org](https://www.cyconet.org)
   navbar:
     - title: Status
       href: /cyconet-upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+# https://upptime.js.org/docs/configuration#ci-schedule
+workflowSchedule:
+  graphs: "0 0 * * *"  # default
+  responseTime: "0 23 * * *"  # default
+  staticSite: "0 0 * * *"  # default
+  summary: "0 0 * * *"  # default
+  updateTemplate: "0 1 * * *"  # default: 00:00
+  updates: "0 4 * * *"  # default: 03:00
+  uptime: "*/5 * * * *"  # default
+
+# https://upptime.js.org/docs/triggers
+# Graphs CI: This workflow runs once every day and generates response time graphs from the recorded data
+# Response Time CI: This workflow records the reponse time of each endpoint and commits it to git history, which is why it runs once every day
+# Setup CI: This workflow is triggered after you edit the configuration file, and runs alls steps: checking uptime, tracking response time, updating the README, and generating graphs
+# Static Site CI: This workflow builds and deploys your status page website using GitHub Pages. It reads from your configuration and builds the Svelte/Sapper website, then deploys is to the gh-pages branch and triggers a re-build on GitHub Pages.
+# Summary CI: This workflow also runs once every day and updates the README of your project with a summary of the response times and generated graphs
+# Update Template CI: This workflow runs once a week and updates the internal code of Upptime to make sure you're always on the latest version
+# Uptime CI: This workflow runs once every 5 minutes and checks if your websites are up. If they are down, it creates a new issue in your repository. This same workflow also closes any issues after your websites have come back up
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
