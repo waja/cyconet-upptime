@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/log.cyconet.org",
     "slug": "cyconet-org-blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 669,
     "timeDay": 522,
     "timeWeek": 680,
     "timeMonth": 669,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2021-05-14": 0
+      "2021-05-14": 9
     }
   },
   {
