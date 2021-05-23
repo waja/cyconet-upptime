@@ -1,7 +1,7 @@
 url: https://$METRICS_HOST
 status: up
 code: 200
-responseTime: 632
-lastUpdated: 2021-05-22T23:09:49.341Z
+responseTime: 805
+lastUpdated: 2021-05-23T23:10:07.474Z
 startTime: Wed Apr 28 2021 20:41:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
