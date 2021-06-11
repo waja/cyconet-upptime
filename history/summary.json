@@ -4,10 +4,10 @@
     "url": "https://www.cyconet.org",
     "icon": "https://favicons.githubusercontent.com/www.cyconet.org",
     "slug": "cyconet-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 605,
@@ -15,17 +15,19 @@
     "timeWeek": 603,
     "timeMonth": 590,
     "timeYear": 605,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-11": 1
+    }
   },
   {
     "name": "cyconet.org Blog",
     "url": "https://log.cyconet.org",
     "icon": "https://favicons.githubusercontent.com/log.cyconet.org",
     "slug": "cyconet-org-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.61%",
     "time": 677,
@@ -34,6 +36,7 @@
     "timeMonth": 678,
     "timeYear": 677,
     "dailyMinutesDown": {
+      "2021-06-11": 1,
       "2021-05-14": 244
     }
   },
@@ -114,9 +117,9 @@
     "url": "https://$TREAFIK_URI",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "traefik-router",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -126,6 +129,7 @@
     "timeMonth": 393,
     "timeYear": 396,
     "dailyMinutesDown": {
+      "2021-06-11": 0,
       "2021-05-06": 63,
       "2021-04-28": 46
     }
@@ -209,18 +213,19 @@
     "url": "https://$NEXTCLOUD_HOST",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "nextcloud-platform",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.94%",
     "time": 797,
     "timeDay": 660,
     "timeWeek": 746,
     "timeMonth": 792,
     "timeYear": 797,
     "dailyMinutesDown": {
+      "2021-06-11": 0,
       "2021-05-13": 34
     }
   },
@@ -229,9 +234,9 @@
     "url": "https://$METRICS_HOST",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "metrics-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -240,16 +245,18 @@
     "timeWeek": 795,
     "timeMonth": 786,
     "timeYear": 781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-11": 0
+    }
   },
   {
     "name": "Portainer platform",
     "url": "https://$CONTAINER_HOST/ui/",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "portainer-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -258,16 +265,18 @@
     "timeWeek": 254,
     "timeMonth": 246,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-11": 0
+    }
   },
   {
     "name": "Paste system",
     "url": "https://$PASTE_HOST",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -276,7 +285,9 @@
     "timeWeek": 513,
     "timeMonth": 527,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-11": 0
+    }
   },
   {
     "name": "FTP repository archive",
