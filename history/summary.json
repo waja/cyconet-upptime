@@ -329,10 +329,10 @@
     "url": "https://$GITLAB_HOST",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.94%",
     "time": 1121,
@@ -341,6 +341,7 @@
     "timeMonth": 1068,
     "timeYear": 1121,
     "dailyMinutesDown": {
+      "2021-08-09": 1,
       "2021-07-28": 50,
       "2021-07-21": 19,
       "2021-04-30": 20
