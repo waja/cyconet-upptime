@@ -1,7 +1,7 @@
 url: https://$FTP_ARCHIVE_HOST
-status: down
-code: 502
-responseTime: 422
-lastUpdated: 2022-01-20T20:02:44.583Z
+status: up
+code: 200
+responseTime: 556
+lastUpdated: 2022-01-20T20:23:42.559Z
 startTime: Wed Apr 28 2021 19:44:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
