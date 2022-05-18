@@ -97,18 +97,20 @@
     "url": "$CLOUD_HOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 159,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 6
+    }
   },
   {
     "name": "Container platform",
@@ -158,54 +160,60 @@
     "url": "$MAIL_HOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 6
+    }
   },
   {
     "name": "Mail IMAP",
     "url": "$MAIL_HOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail-imap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 118,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 6
+    }
   },
   {
     "name": "Mail SUBMISSION",
     "url": "$MAIL_HOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail-submission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 5
+    }
   },
   {
     "name": "Monitoring platform",
@@ -485,18 +493,20 @@
     "url": "$CAC01_HOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-at-cost-01-debian-10",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 80,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 85,
     "timeYear": 80,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 4
+    }
   },
   {
     "name": "Cloud at Cost 02 (Debian 10)",
@@ -521,18 +531,20 @@
     "url": "$CAC03_HOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-at-cost-03-debian-10",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 71,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 80,
     "timeYear": 71,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 3
+    }
   },
   {
     "name": "Cloud at Cost 04 (Debian 11)",
@@ -575,10 +587,10 @@
     "url": "$CAC21_HOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-at-cost-21-ubuntu-20-04-lts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 68,
@@ -586,17 +598,19 @@
     "timeWeek": 55,
     "timeMonth": 65,
     "timeYear": 68,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 2
+    }
   },
   {
     "name": "Cloud at Cost 22 (CentOS 8)",
     "url": "$CAC22_HOST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-at-cost-22-cent-os-8",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 62,
@@ -604,7 +618,9 @@
     "timeWeek": 0,
     "timeMonth": 64,
     "timeYear": 62,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-18": 1
+    }
   },
   {
     "name": "Oracle Cloud 31 (Oracle Linux 8)",
