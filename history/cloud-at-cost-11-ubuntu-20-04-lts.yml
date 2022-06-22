@@ -1,7 +1,7 @@
 url: $CAC11_HOST
-status: up
-code: 200
-responseTime: 68
-lastUpdated: 2022-06-22T06:23:06.219Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-06-22T08:13:43.292Z
 startTime: Wed Apr 28 2021 21:19:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
