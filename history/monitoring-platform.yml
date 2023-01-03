@@ -1,7 +1,7 @@
 url: https://$BB_HOST/icinga/
 status: up
 code: 401
-responseTime: 425
-lastUpdated: 2023-01-02T23:10:37.877Z
+responseTime: 541
+lastUpdated: 2023-01-03T23:11:08.241Z
 startTime: Wed Apr 28 2021 20:41:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
