@@ -1,7 +1,7 @@
 url: $CLOUD_HOST
-status: up
-code: 200
-responseTime: 154
-lastUpdated: 2023-03-20T15:24:01.816Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-03-20T20:17:44.313Z
 startTime: Wed Apr 28 2021 20:41:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
