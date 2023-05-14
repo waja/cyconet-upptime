@@ -1,7 +1,7 @@
 url: https://$PASTE_HOST
-status: up
-code: 200
-responseTime: 848
-lastUpdated: 2023-05-13T23:09:47.302Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-05-14T15:18:03.773Z
 startTime: Wed Apr 28 2021 20:41:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
