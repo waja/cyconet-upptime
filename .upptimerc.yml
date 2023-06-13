@@ -15,10 +15,6 @@ sites:
     check: "tcp-ping"
     url: $NS2_HOST
     port: 53
-  - name: Cloud platform
-    check: "tcp-ping"
-    url: $CLOUD_HOST
-    port: 25
   - name: Container platform
     check: "tcp-ping"
     url: $CONTAINER_HOST
