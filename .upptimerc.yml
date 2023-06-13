@@ -58,7 +58,7 @@ sites:
   - name: Development infrastructure
     check: "tcp-ping"
     url: $U9D_HOST
-    port: 5000
+    port: 48044
   - name: Shared hosting
     url: https://$SHARED_HOST
   - name: Homeoffice 1
