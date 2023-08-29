@@ -6,7 +6,7 @@
     "slug": "cyconet-org",
     "status": "up",
     "uptime": "93.21%",
-    "uptimeDay": "54.09%",
+    "uptimeDay": "61.25%",
     "uptimeWeek": "70.78%",
     "uptimeMonth": "93.28%",
     "uptimeYear": "84.27%",
@@ -541,11 +541,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp",
     "status": "up",
-    "uptime": "54.10%",
+    "uptime": "54.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.02%",
+    "uptimeYear": "21.04%",
     "time": 165,
     "timeDay": 157,
     "timeWeek": 166,
@@ -839,8 +839,7 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
-      "2022-08-30": 1440,
-      "2022-08-29": 1440
+      "2022-08-30": 1440
     }
   },
   {
@@ -849,11 +848,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
     "status": "up",
-    "uptime": "54.10%",
+    "uptime": "54.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.02%",
+    "uptimeYear": "21.04%",
     "time": 129,
     "timeDay": 130,
     "timeWeek": 134,
@@ -1147,8 +1146,7 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
-      "2022-08-30": 1440,
-      "2022-08-29": 1440
+      "2022-08-30": 1440
     }
   },
   {
@@ -1157,11 +1155,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-submission",
     "status": "up",
-    "uptime": "54.10%",
+    "uptime": "54.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.02%",
+    "uptimeYear": "21.04%",
     "time": 130,
     "timeDay": 132,
     "timeWeek": 134,
@@ -1455,8 +1453,7 @@
       "2022-09-02": 1440,
       "2022-09-01": 1440,
       "2022-08-31": 1440,
-      "2022-08-30": 1440,
-      "2022-08-29": 1440
+      "2022-08-30": 1440
     }
   },
   {
@@ -2044,11 +2041,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-33-oracle-linux-8",
     "status": "up",
-    "uptime": "89.55%",
+    "uptime": "89.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.55%",
+    "uptimeYear": "89.56%",
     "time": 258,
     "timeDay": 261,
     "timeWeek": 246,
