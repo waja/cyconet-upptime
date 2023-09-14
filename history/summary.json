@@ -4,19 +4,20 @@
     "url": "https://www.cyconet.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyconet.org.ico",
     "slug": "cyconet-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "50.71%",
-    "uptimeWeek": "66.85%",
-    "uptimeMonth": "75.01%",
-    "uptimeYear": "97.92%",
-    "time": 656,
-    "timeDay": 588,
-    "timeWeek": 627,
-    "timeMonth": 643,
+    "uptimeDay": "44.06%",
+    "uptimeWeek": "66.05%",
+    "uptimeMonth": "74.79%",
+    "uptimeYear": "97.90%",
+    "time": 655,
+    "timeDay": 611,
+    "timeWeek": 631,
+    "timeMonth": 644,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2023-09-13": 710,
+      "2023-09-14": 54,
+      "2023-09-13": 752,
       "2023-09-12": 637,
       "2023-09-11": 386,
       "2023-09-10": 235,
@@ -42,18 +43,19 @@
     "url": "https://log.cyconet.org",
     "icon": "https://icons.duckduckgo.com/ip3/log.cyconet.org.ico",
     "slug": "cyconet-org-blog",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "65.35%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "65.31%",
     "uptimeWeek": "67.35%",
-    "uptimeMonth": "75.41%",
-    "uptimeYear": "97.95%",
+    "uptimeMonth": "75.96%",
+    "uptimeYear": "98.00%",
     "time": 1016,
     "timeDay": 1060,
     "timeWeek": 1000,
     "timeMonth": 1037,
     "timeYear": 1013,
     "dailyMinutesDown": {
+      "2023-09-14": 1,
       "2023-09-13": 499,
       "2023-09-12": 485,
       "2023-09-11": 593,
@@ -72,7 +74,7 @@
       "2023-08-29": 267,
       "2023-08-28": 536,
       "2023-08-27": 964,
-      "2023-08-26": 597
+      "2023-08-26": 358
     }
   },
   {
@@ -401,7 +403,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "traefik-router",
     "status": "up",
-    "uptime": "93.58%",
+    "uptime": "93.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -486,7 +488,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.40%",
+    "uptimeYear": "25.42%",
     "time": 166,
     "timeDay": 156,
     "timeWeek": 174,
@@ -764,8 +766,7 @@
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-15": 1440
     }
   },
   {
@@ -778,7 +779,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.40%",
+    "uptimeYear": "25.42%",
     "time": 128,
     "timeDay": 135,
     "timeWeek": 126,
@@ -1056,8 +1057,7 @@
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-15": 1440
     }
   },
   {
@@ -1070,7 +1070,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.40%",
+    "uptimeYear": "25.42%",
     "time": 129,
     "timeDay": 133,
     "timeWeek": 126,
@@ -1348,8 +1348,7 @@
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-15": 1440
     }
   },
   {
@@ -1441,8 +1440,7 @@
       "2023-01-16": 23,
       "2022-12-17": 20,
       "2022-11-07": 22,
-      "2022-10-07": 28,
-      "2022-09-14": 16
+      "2022-10-07": 28
     }
   },
   {
@@ -1534,7 +1532,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "portainer-platform",
     "status": "up",
-    "uptime": "93.45%",
+    "uptime": "93.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1936,11 +1934,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-33-oracle-linux-8",
     "status": "up",
-    "uptime": "91.35%",
+    "uptime": "91.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.35%",
+    "uptimeYear": "91.36%",
     "time": 259,
     "timeDay": 238,
     "timeWeek": 265,
