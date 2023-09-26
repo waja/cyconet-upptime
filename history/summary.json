@@ -4,12 +4,12 @@
     "url": "https://www.cyconet.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyconet.org.ico",
     "slug": "cyconet-org",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "43.63%",
-    "uptimeWeek": "47.32%",
-    "uptimeMonth": "72.57%",
-    "uptimeYear": "97.71%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "44.89%",
+    "uptimeWeek": "47.50%",
+    "uptimeMonth": "72.73%",
+    "uptimeYear": "97.73%",
     "time": 661,
     "timeDay": 717,
     "timeWeek": 735,
@@ -35,7 +35,7 @@
       "2023-09-10": 235,
       "2023-09-09": 505,
       "2023-09-08": 575,
-      "2023-09-07": 279
+      "2023-09-07": 207
     }
   },
   {
@@ -45,8 +45,8 @@
     "slug": "cyconet-org-blog",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "45.26%",
-    "uptimeWeek": "47.41%",
+    "uptimeDay": "46.57%",
+    "uptimeWeek": "47.60%",
     "uptimeMonth": "72.39%",
     "uptimeYear": "97.70%",
     "time": 1013,
