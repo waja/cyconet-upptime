@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.06%",
     "uptimeDay": "84.40%",
-    "uptimeWeek": "53.07%",
+    "uptimeWeek": "53.86%",
     "uptimeMonth": "72.80%",
     "uptimeYear": "97.73%",
     "time": 659,
@@ -43,19 +43,20 @@
     "url": "https://log.cyconet.org",
     "icon": "https://icons.duckduckgo.com/ip3/log.cyconet.org.ico",
     "slug": "cyconet-org-blog",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "64.10%",
-    "uptimeWeek": "49.36%",
-    "uptimeMonth": "72.32%",
-    "uptimeYear": "97.69%",
+    "status": "up",
+    "uptime": "99.04%",
+    "uptimeDay": "64.01%",
+    "uptimeWeek": "48.72%",
+    "uptimeMonth": "72.14%",
+    "uptimeYear": "97.68%",
     "time": 1012,
-    "timeDay": 1000,
-    "timeWeek": 969,
+    "timeDay": 990,
+    "timeWeek": 973,
     "timeMonth": 1023,
     "timeYear": 1011,
     "dailyMinutesDown": {
-      "2023-09-27": 467,
+      "2023-09-28": 28,
+      "2023-09-27": 518,
       "2023-09-26": 634,
       "2023-09-25": 1065,
       "2023-09-24": 833,
@@ -165,7 +166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "2nd-nameserver",
     "status": "up",
-    "uptime": "84.25%",
+    "uptime": "84.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -415,7 +416,7 @@
     "timeDay": 436,
     "timeWeek": 396,
     "timeMonth": 419,
-    "timeYear": 425,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2023-09-23": 15,
       "2023-09-22": 64,
@@ -493,7 +494,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.29%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "29.21%",
+    "uptimeYear": "29.22%",
     "time": 165,
     "timeDay": 160,
     "timeWeek": 164,
@@ -759,8 +760,7 @@
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
-      "2022-09-29": 1440,
-      "2022-09-28": 1440
+      "2022-09-29": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.30%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "29.21%",
+    "uptimeYear": "29.22%",
     "time": 128,
     "timeDay": 135,
     "timeWeek": 122,
@@ -1039,8 +1039,7 @@
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
-      "2022-09-29": 1440,
-      "2022-09-28": 1440
+      "2022-09-29": 1440
     }
   },
   {
@@ -1053,7 +1052,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.31%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "29.21%",
+    "uptimeYear": "29.22%",
     "time": 129,
     "timeDay": 133,
     "timeWeek": 121,
@@ -1319,8 +1318,7 @@
       "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
-      "2022-09-29": 1440,
-      "2022-09-28": 1440
+      "2022-09-29": 1440
     }
   },
   {
@@ -1338,7 +1336,7 @@
     "timeDay": 582,
     "timeWeek": 548,
     "timeMonth": 566,
-    "timeYear": 580,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2023-06-02": 53,
       "2023-05-01": 20,
@@ -1360,7 +1358,7 @@
     "timeDay": 1013,
     "timeWeek": 963,
     "timeMonth": 997,
-    "timeYear": 1024,
+    "timeYear": 1023,
     "dailyMinutesDown": {
       "2023-09-23": 131,
       "2023-09-22": 169,
@@ -1517,7 +1515,7 @@
     "timeDay": 268,
     "timeWeek": 266,
     "timeMonth": 263,
-    "timeYear": 264,
+    "timeYear": 263,
     "dailyMinutesDown": {
       "2023-09-23": 15,
       "2023-09-22": 59,
@@ -1601,7 +1599,7 @@
     "timeDay": 592,
     "timeWeek": 638,
     "timeMonth": 653,
-    "timeYear": 630,
+    "timeYear": 629,
     "dailyMinutesDown": {
       "2023-09-23": 15,
       "2023-09-22": 59,
@@ -1659,7 +1657,7 @@
     "timeDay": 965,
     "timeWeek": 1130,
     "timeMonth": 1020,
-    "timeYear": 1164,
+    "timeYear": 1163,
     "dailyMinutesDown": {
       "2023-09-23": 15,
       "2023-09-22": 114,
@@ -1834,7 +1832,7 @@
     "timeDay": 712,
     "timeWeek": 704,
     "timeMonth": 643,
-    "timeYear": 659,
+    "timeYear": 658,
     "dailyMinutesDown": {
       "2023-06-02": 75,
       "2023-04-09": 1225,
@@ -1917,11 +1915,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-33-oracle-linux-8",
     "status": "up",
-    "uptime": "92.48%",
+    "uptime": "92.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.48%",
+    "uptimeYear": "92.49%",
     "time": 261,
     "timeDay": 274,
     "timeWeek": 259,
