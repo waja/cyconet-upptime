@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "47.44%",
-    "uptimeWeek": "51.58%",
+    "uptimeWeek": "52.45%",
     "uptimeMonth": "72.47%",
     "uptimeYear": "97.71%",
     "time": 657,
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/log.cyconet.org.ico",
     "slug": "cyconet-org-blog",
     "status": "down",
-    "uptime": "99.07%",
-    "uptimeDay": "62.26%",
-    "uptimeWeek": "50.73%",
-    "uptimeMonth": "73.01%",
-    "uptimeYear": "97.75%",
+    "uptime": "99.06%",
+    "uptimeDay": "53.68%",
+    "uptimeWeek": "50.61%",
+    "uptimeMonth": "72.73%",
+    "uptimeYear": "97.73%",
     "time": 1014,
     "timeDay": 1013,
-    "timeWeek": 982,
+    "timeWeek": 983,
     "timeMonth": 1021,
     "timeYear": 1011,
     "dailyMinutesDown": {
-      "2023-09-29": 543,
+      "2023-09-30": 73,
+      "2023-09-29": 594,
       "2023-09-28": 403,
       "2023-09-27": 518,
       "2023-09-26": 634,
@@ -405,7 +406,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "traefik-router",
     "status": "up",
-    "uptime": "93.69%",
+    "uptime": "93.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.82%",
@@ -492,7 +493,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "29.75%",
+    "uptimeYear": "29.78%",
     "time": 165,
     "timeDay": 181,
     "timeWeek": 156,
@@ -756,8 +757,7 @@
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
-      "2022-10-01": 1440,
-      "2022-09-30": 1440
+      "2022-10-01": 1440
     }
   },
   {
@@ -770,7 +770,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "29.75%",
+    "uptimeYear": "29.78%",
     "time": 128,
     "timeDay": 154,
     "timeWeek": 118,
@@ -1034,8 +1034,7 @@
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
-      "2022-10-01": 1440,
-      "2022-09-30": 1440
+      "2022-10-01": 1440
     }
   },
   {
@@ -1048,7 +1047,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "29.75%",
+    "uptimeYear": "29.78%",
     "time": 129,
     "timeDay": 153,
     "timeWeek": 118,
@@ -1312,8 +1311,7 @@
       "2022-10-04": 1440,
       "2022-10-03": 1440,
       "2022-10-02": 1440,
-      "2022-10-01": 1440,
-      "2022-09-30": 1440
+      "2022-10-01": 1440
     }
   },
   {
@@ -1331,7 +1329,7 @@
     "timeDay": 603,
     "timeWeek": 532,
     "timeMonth": 566,
-    "timeYear": 580,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2023-06-02": 53,
       "2023-05-01": 20,
@@ -1346,7 +1344,7 @@
     "status": "up",
     "uptime": "95.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.20%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "89.26%",
     "time": 1003,
@@ -1652,7 +1650,7 @@
     "timeDay": 1104,
     "timeWeek": 1016,
     "timeMonth": 1024,
-    "timeYear": 1160,
+    "timeYear": 1159,
     "dailyMinutesDown": {
       "2023-09-23": 15,
       "2023-09-22": 114,
@@ -1910,11 +1908,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-33-oracle-linux-8",
     "status": "up",
-    "uptime": "92.62%",
+    "uptime": "92.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.62%",
+    "uptimeYear": "92.63%",
     "time": 261,
     "timeDay": 256,
     "timeWeek": 260,
