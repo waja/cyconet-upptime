@@ -4,12 +4,12 @@
     "url": "https://www.cyconet.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyconet.org.ico",
     "slug": "cyconet-org",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "43.95%",
-    "uptimeWeek": "63.61%",
-    "uptimeMonth": "73.64%",
-    "uptimeYear": "97.80%",
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "44.32%",
+    "uptimeWeek": "64.11%",
+    "uptimeMonth": "73.77%",
+    "uptimeYear": "97.81%",
     "time": 657,
     "timeDay": 678,
     "timeWeek": 646,
@@ -33,7 +33,7 @@
       "2023-09-25": 988,
       "2023-09-24": 744,
       "2023-09-23": 1008,
-      "2023-09-22": 524
+      "2023-09-22": 465
     }
   },
   {
@@ -45,15 +45,16 @@
     "uptime": "99.06%",
     "uptimeDay": "65.96%",
     "uptimeWeek": "69.30%",
-    "uptimeMonth": "72.47%",
-    "uptimeYear": "97.71%",
-    "time": 1013,
+    "uptimeMonth": "72.35%",
+    "uptimeYear": "97.70%",
+    "time": 1012,
     "timeDay": 1019,
     "timeWeek": 1010,
     "timeMonth": 1003,
-    "timeYear": 1010,
+    "timeYear": 1009,
     "dailyMinutesDown": {
-      "2023-10-09": 438,
+      "2023-10-10": 0,
+      "2023-10-09": 489,
       "2023-10-08": 246,
       "2023-10-07": 185,
       "2023-10-06": 480,
@@ -412,7 +413,7 @@
     "timeDay": 461,
     "timeWeek": 403,
     "timeMonth": 410,
-    "timeYear": 425,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2023-09-23": 15,
       "2023-09-22": 64,
@@ -485,11 +486,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp",
     "status": "up",
-    "uptime": "56.24%",
+    "uptime": "56.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "32.49%",
+    "uptimeYear": "32.50%",
     "time": 164,
     "timeDay": 178,
     "timeWeek": 154,
@@ -743,8 +744,7 @@
       "2022-10-14": 1440,
       "2022-10-13": 1440,
       "2022-10-12": 1440,
-      "2022-10-11": 1440,
-      "2022-10-10": 1440
+      "2022-10-11": 1440
     }
   },
   {
@@ -753,11 +753,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
     "status": "up",
-    "uptime": "56.24%",
+    "uptime": "56.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "32.49%",
+    "uptimeYear": "32.50%",
     "time": 127,
     "timeDay": 136,
     "timeWeek": 119,
@@ -1011,8 +1011,7 @@
       "2022-10-14": 1440,
       "2022-10-13": 1440,
       "2022-10-12": 1440,
-      "2022-10-11": 1440,
-      "2022-10-10": 1440
+      "2022-10-11": 1440
     }
   },
   {
@@ -1021,11 +1020,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-submission",
     "status": "up",
-    "uptime": "56.24%",
+    "uptime": "56.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "32.49%",
+    "uptimeYear": "32.50%",
     "time": 128,
     "timeDay": 134,
     "timeWeek": 119,
@@ -1279,8 +1278,7 @@
       "2022-10-14": 1440,
       "2022-10-13": 1440,
       "2022-10-12": 1440,
-      "2022-10-11": 1440,
-      "2022-10-10": 1440
+      "2022-10-11": 1440
     }
   },
   {
@@ -1872,11 +1870,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-33-oracle-linux-8",
     "status": "up",
-    "uptime": "93.24%",
+    "uptime": "93.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.24%",
+    "uptimeYear": "93.25%",
     "time": 261,
     "timeDay": 308,
     "timeWeek": 266,
