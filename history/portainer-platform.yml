@@ -1,7 +1,7 @@
 url: https://$CONTAINER_HOST/ui/
 status: up
 code: 200
-responseTime: 239
-lastUpdated: 2023-12-05T23:09:24.506Z
+responseTime: 200
+lastUpdated: 2023-12-06T23:09:21.802Z
 startTime: 2021-04-28T20:41:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
