@@ -488,7 +488,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.66%",
+    "uptimeYear": "48.68%",
     "time": 163,
     "timeDay": 117,
     "timeWeek": 144,
@@ -684,8 +684,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   },
   {
@@ -694,11 +693,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
     "status": "up",
-    "uptime": "58.95%",
+    "uptime": "58.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.66%",
+    "uptimeYear": "48.68%",
     "time": 126,
     "timeDay": 97,
     "timeWeek": 112,
@@ -894,8 +893,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   },
   {
@@ -904,11 +902,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-submission",
     "status": "up",
-    "uptime": "58.95%",
+    "uptime": "58.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "48.66%",
+    "uptimeYear": "48.68%",
     "time": 126,
     "timeDay": 97,
     "timeWeek": 111,
@@ -1104,8 +1102,7 @@
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
-      "2022-12-09": 1440,
-      "2022-12-08": 1440
+      "2022-12-09": 1440
     }
   },
   {
@@ -1478,7 +1475,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "development-infrastructure",
     "status": "up",
-    "uptime": "88.99%",
+    "uptime": "89.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1729,11 +1726,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-34-ubuntu-22-04-lts-arm64",
     "status": "up",
-    "uptime": "71.19%",
-    "uptimeDay": "38.73%",
-    "uptimeWeek": "5.53%",
-    "uptimeMonth": "2.65%",
-    "uptimeYear": "71.19%",
+    "uptime": "71.20%",
+    "uptimeDay": "46.63%",
+    "uptimeWeek": "6.66%",
+    "uptimeMonth": "2.91%",
+    "uptimeYear": "71.20%",
     "time": 259,
     "timeDay": 249,
     "timeWeek": 249,
