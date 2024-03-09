@@ -4,18 +4,19 @@
     "url": "https://www.cyconet.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyconet.org.ico",
     "slug": "cyconet-org",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "65.01%",
-    "uptimeWeek": "94.44%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "65.18%",
+    "uptimeWeek": "94.43%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "97.95%",
+    "uptimeYear": "97.99%",
     "time": 671,
     "timeDay": 634,
     "timeWeek": 661,
     "timeMonth": 724,
     "timeYear": 674,
     "dailyMinutesDown": {
+      "2024-03-09": 1,
       "2024-03-08": 504,
       "2024-03-07": 56,
       "2024-02-23": 54,
@@ -39,7 +40,7 @@
       "2023-10-05": 351,
       "2023-10-04": 603,
       "2023-10-03": 485,
-      "2023-10-02": 476
+      "2023-10-02": 292
     }
   },
   {
@@ -309,7 +310,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "73.59%",
+    "uptimeYear": "73.60%",
     "time": 149,
     "timeDay": 100,
     "timeWeek": 137,
@@ -1025,7 +1026,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-03-09": 71,
+      "2024-03-09": 75,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
