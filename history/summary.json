@@ -6,17 +6,17 @@
     "slug": "cyconet-org",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "83.50%",
-    "uptimeWeek": "42.52%",
-    "uptimeMonth": "61.53%",
-    "uptimeYear": "96.79%",
+    "uptimeDay": "84.32%",
+    "uptimeWeek": "42.75%",
+    "uptimeMonth": "61.28%",
+    "uptimeYear": "96.77%",
     "time": 664,
     "timeDay": 639,
     "timeWeek": 630,
     "timeMonth": 626,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2024-04-09": 63,
+      "2024-04-09": 51,
       "2024-04-08": 230,
       "2024-04-07": 545,
       "2024-04-06": 585,
@@ -36,7 +36,7 @@
       "2024-03-23": 864,
       "2024-03-22": 855,
       "2024-03-21": 782,
-      "2024-03-20": 273
+      "2024-03-20": 393
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "cyconet-org-blog",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.94%",
     "time": 1017,
     "timeDay": 3256,
@@ -56,7 +56,6 @@
     "timeMonth": 1169,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2024-04-09": 12,
       "2023-10-19": 245,
       "2023-10-18": 408,
       "2023-10-17": 793,
@@ -75,7 +74,8 @@
       "2023-10-04": 688,
       "2023-10-03": 469,
       "2023-10-02": 936,
-      "2023-10-01": 638
+      "2023-10-01": 638,
+      "2023-09-30": 50
     }
   },
   {
@@ -113,7 +113,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.17%",
+    "uptimeYear": "82.18%",
     "time": 129,
     "timeDay": 96,
     "timeWeek": 93,
@@ -809,7 +809,7 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-04-09": 281,
+      "2024-04-09": 293,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
@@ -933,10 +933,10 @@
     "url": "$OC32_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
@@ -945,6 +945,7 @@
     "timeMonth": 118,
     "timeYear": 199,
     "dailyMinutesDown": {
+      "2024-04-09": 1,
       "2023-11-21": 20
     }
   },
