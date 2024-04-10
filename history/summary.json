@@ -6,17 +6,18 @@
     "slug": "cyconet-org",
     "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "71.40%",
+    "uptimeDay": "65.48%",
     "uptimeWeek": "47.52%",
-    "uptimeMonth": "62.87%",
-    "uptimeYear": "96.91%",
+    "uptimeMonth": "62.67%",
+    "uptimeYear": "96.89%",
     "time": 664,
     "timeDay": 613,
     "timeWeek": 616,
     "timeMonth": 625,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2024-04-09": 411,
+      "2024-04-10": 75,
+      "2024-04-09": 422,
       "2024-04-08": 230,
       "2024-04-07": 545,
       "2024-04-06": 585,
@@ -112,7 +113,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.39%",
+    "uptimeYear": "82.41%",
     "time": 129,
     "timeDay": 79,
     "timeWeek": 93,
@@ -182,8 +183,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   },
   {
@@ -240,11 +240,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp",
     "status": "up",
-    "uptime": "63.67%",
+    "uptime": "63.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.35%",
+    "uptimeYear": "82.36%",
     "time": 146,
     "timeDay": 99,
     "timeWeek": 114,
@@ -319,8 +319,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   },
   {
@@ -329,11 +328,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
     "status": "up",
-    "uptime": "63.67%",
+    "uptime": "63.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.35%",
+    "uptimeYear": "82.36%",
     "time": 123,
     "timeDay": 99,
     "timeWeek": 114,
@@ -408,8 +407,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   },
   {
@@ -418,11 +416,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-submission",
     "status": "up",
-    "uptime": "63.67%",
+    "uptime": "63.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.35%",
+    "uptimeYear": "82.36%",
     "time": 123,
     "timeDay": 99,
     "timeWeek": 114,
@@ -497,8 +495,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   },
   {
@@ -717,7 +714,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.38%",
+    "uptimeYear": "82.40%",
     "time": 224,
     "timeDay": 99,
     "timeWeek": 114,
@@ -787,8 +784,7 @@
       "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1440,
-      "2023-04-12": 1440,
-      "2023-04-11": 1440
+      "2023-04-12": 1440
     }
   },
   {
@@ -797,18 +793,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "shared-hosting",
     "status": "down",
-    "uptime": "92.82%",
+    "uptime": "92.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.61%",
+    "uptimeYear": "82.59%",
     "time": 643,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-04-09": 1431,
+      "2024-04-10": 75,
+      "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
@@ -983,11 +980,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-34-ubuntu-22-04-lts-arm64",
     "status": "up",
-    "uptime": "83.03%",
+    "uptime": "83.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.03%",
+    "uptimeYear": "83.04%",
     "time": 190,
     "timeDay": 90,
     "timeWeek": 105,
