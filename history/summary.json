@@ -6,14 +6,14 @@
     "slug": "cyconet-org",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "17.06%",
-    "uptimeWeek": "30.87%",
+    "uptimeDay": "26.04%",
+    "uptimeWeek": "32.15%",
     "uptimeMonth": "57.06%",
     "uptimeYear": "96.42%",
     "time": 664,
     "timeDay": 630,
     "timeWeek": 635,
-    "timeMonth": 628,
+    "timeMonth": 629,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2024-04-23": 1143,
@@ -53,7 +53,7 @@
     "uptimeYear": "97.94%",
     "time": 1021,
     "timeDay": 1199,
-    "timeWeek": 1107,
+    "timeWeek": 1150,
     "timeMonth": 1270,
     "timeYear": 1039,
     "dailyMinutesDown": {
@@ -92,7 +92,7 @@
     "uptimeYear": "99.96%",
     "time": 139,
     "timeDay": 169,
-    "timeWeek": 132,
+    "timeWeek": 128,
     "timeMonth": 120,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -114,7 +114,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.22%",
+    "uptimeYear": "86.25%",
     "time": 128,
     "timeDay": 146,
     "timeWeek": 107,
@@ -170,8 +170,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -232,7 +231,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.17%",
+    "uptimeYear": "86.20%",
     "time": 145,
     "timeDay": 168,
     "timeWeek": 128,
@@ -293,8 +292,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -307,7 +305,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.17%",
+    "uptimeYear": "86.20%",
     "time": 123,
     "timeDay": 168,
     "timeWeek": 127,
@@ -368,8 +366,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -382,7 +379,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.18%",
+    "uptimeYear": "86.20%",
     "time": 124,
     "timeDay": 168,
     "timeWeek": 128,
@@ -443,8 +440,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -456,15 +452,16 @@
     "uptime": "99.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.61%",
-    "uptimeYear": "97.69%",
+    "uptimeMonth": "72.32%",
+    "uptimeYear": "97.67%",
     "time": 567,
     "timeDay": 690,
     "timeWeek": 592,
     "timeMonth": 566,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2024-04-23": 1390,
+      "2024-04-24": 79,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -672,7 +669,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.21%",
+    "uptimeYear": "86.24%",
     "time": 220,
     "timeDay": 167,
     "timeWeek": 127,
@@ -728,8 +725,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -738,18 +734,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "shared-hosting",
     "status": "down",
-    "uptime": "91.63%",
+    "uptime": "91.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.78%",
+    "uptimeYear": "78.76%",
     "time": 643,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 631,
+    "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-04-23": 1391,
+      "2024-04-24": 79,
+      "2024-04-23": 1440,
       "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
@@ -938,11 +935,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-34-ubuntu-22-04-lts-arm64",
     "status": "up",
-    "uptime": "83.78%",
+    "uptime": "83.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.78%",
+    "uptimeYear": "83.79%",
     "time": 186,
     "timeDay": 155,
     "timeWeek": 118,
