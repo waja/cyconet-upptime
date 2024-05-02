@@ -6,13 +6,13 @@
     "slug": "cyconet-org",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "44.61%",
-    "uptimeWeek": "35.53%",
+    "uptimeDay": "50.98%",
+    "uptimeWeek": "36.21%",
     "uptimeMonth": "56.84%",
     "uptimeYear": "96.40%",
     "time": 663,
     "timeDay": 626,
-    "timeWeek": 634,
+    "timeWeek": 636,
     "timeMonth": 639,
     "timeYear": 663,
     "dailyMinutesDown": {
@@ -113,7 +113,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.42%",
+    "uptimeYear": "88.44%",
     "time": 128,
     "timeDay": 96,
     "timeWeek": 100,
@@ -161,8 +161,7 @@
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
-      "2023-05-04": 1440,
-      "2023-05-03": 1440
+      "2023-05-04": 1440
     }
   },
   {
@@ -222,7 +221,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.37%",
+    "uptimeYear": "88.39%",
     "time": 144,
     "timeDay": 117,
     "timeWeek": 123,
@@ -275,8 +274,7 @@
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
-      "2023-05-04": 1440,
-      "2023-05-03": 1440
+      "2023-05-04": 1440
     }
   },
   {
@@ -289,7 +287,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.37%",
+    "uptimeYear": "88.39%",
     "time": 123,
     "timeDay": 117,
     "timeWeek": 122,
@@ -342,8 +340,7 @@
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
-      "2023-05-04": 1440,
-      "2023-05-03": 1440
+      "2023-05-04": 1440
     }
   },
   {
@@ -356,7 +353,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.37%",
+    "uptimeYear": "88.39%",
     "time": 123,
     "timeDay": 117,
     "timeWeek": 123,
@@ -409,8 +406,7 @@
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
-      "2023-05-04": 1440,
-      "2023-05-03": 1440
+      "2023-05-04": 1440
     }
   },
   {
@@ -419,18 +415,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "monitoring-platform",
     "status": "down",
-    "uptime": "98.47%",
+    "uptime": "98.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.23%",
-    "uptimeYear": "95.50%",
+    "uptimeMonth": "46.02%",
+    "uptimeYear": "95.48%",
     "time": 567,
     "timeDay": 463,
     "timeWeek": 535,
     "timeMonth": 574,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2024-05-01": 1426,
+      "2024-05-02": 77,
+      "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
@@ -639,7 +636,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.41%",
+    "uptimeYear": "88.43%",
     "time": 217,
     "timeDay": 118,
     "timeWeek": 122,
@@ -687,8 +684,7 @@
       "2023-05-07": 1440,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
-      "2023-05-04": 1440,
-      "2023-05-03": 1440
+      "2023-05-04": 1440
     }
   },
   {
@@ -697,18 +693,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "shared-hosting",
     "status": "down",
-    "uptime": "90.96%",
+    "uptime": "90.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "76.58%",
+    "uptimeYear": "76.57%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-05-01": 1426,
+      "2024-05-02": 78,
+      "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
       "2024-04-28": 1440,
