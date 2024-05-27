@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cyconet.org.ico",
     "slug": "cyconet-org",
     "status": "down",
-    "uptime": "98.82%",
+    "uptime": "98.81%",
     "uptimeDay": "28.26%",
-    "uptimeWeek": "39.70%",
-    "uptimeMonth": "56.25%",
-    "uptimeYear": "96.35%",
+    "uptimeWeek": "38.66%",
+    "uptimeMonth": "56.01%",
+    "uptimeYear": "96.33%",
     "time": 656,
     "timeDay": 623,
     "timeWeek": 623,
     "timeMonth": 631,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2024-05-26": 1011,
+      "2024-05-27": 82,
+      "2024-05-26": 1033,
       "2024-05-25": 933,
       "2024-05-24": 556,
       "2024-05-23": 1180,
@@ -113,11 +114,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "2nd-nameserver",
     "status": "up",
-    "uptime": "87.64%",
+    "uptime": "87.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.27%",
+    "uptimeYear": "95.29%",
     "time": 126,
     "timeDay": 95,
     "timeWeek": 110,
@@ -140,8 +141,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   },
   {
@@ -201,7 +201,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.22%",
+    "uptimeYear": "95.24%",
     "time": 143,
     "timeDay": 117,
     "timeWeek": 132,
@@ -229,8 +229,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   },
   {
@@ -243,7 +242,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.22%",
+    "uptimeYear": "95.24%",
     "time": 124,
     "timeDay": 117,
     "timeWeek": 131,
@@ -271,8 +270,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   },
   {
@@ -285,7 +283,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.22%",
+    "uptimeYear": "95.24%",
     "time": 124,
     "timeDay": 117,
     "timeWeek": 132,
@@ -313,8 +311,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   },
   {
@@ -323,18 +320,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "monitoring-platform",
     "status": "down",
-    "uptime": "96.28%",
+    "uptime": "96.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.65%",
+    "uptimeYear": "88.63%",
     "time": 569,
     "timeDay": 461,
     "timeWeek": 552,
     "timeMonth": 564,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2024-05-26": 1418,
+      "2024-05-27": 82,
+      "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
@@ -566,7 +564,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.26%",
+    "uptimeYear": "95.28%",
     "time": 209,
     "timeDay": 117,
     "timeWeek": 132,
@@ -589,8 +587,7 @@
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
-      "2023-05-29": 1440,
-      "2023-05-28": 1440
+      "2023-05-29": 1440
     }
   },
   {
@@ -599,18 +596,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "shared-hosting",
     "status": "down",
-    "uptime": "88.94%",
+    "uptime": "88.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.74%",
+    "uptimeYear": "69.72%",
     "time": 637,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-05-26": 1418,
+      "2024-05-27": 83,
+      "2024-05-26": 1440,
       "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 1440,
