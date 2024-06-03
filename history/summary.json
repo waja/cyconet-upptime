@@ -4,18 +4,19 @@
     "url": "https://www.cyconet.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyconet.org.ico",
     "slug": "cyconet-org",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "78.61%",
-    "uptimeWeek": "41.52%",
-    "uptimeMonth": "57.20%",
-    "uptimeYear": "96.43%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "78.59%",
+    "uptimeWeek": "41.73%",
+    "uptimeMonth": "57.63%",
+    "uptimeYear": "96.47%",
     "time": 659,
     "timeDay": 609,
-    "timeWeek": 639,
+    "timeWeek": 635,
     "timeMonth": 631,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2024-06-03": 0,
       "2024-06-02": 308,
       "2024-06-01": 743,
       "2024-05-31": 1138,
@@ -38,7 +39,7 @@
       "2024-05-14": 720,
       "2024-05-13": 518,
       "2024-05-12": 724,
-      "2024-05-11": 307
+      "2024-05-11": 121
     }
   },
   {
@@ -258,7 +259,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.16%",
+    "uptimeYear": "97.17%",
     "time": 124,
     "timeDay": 125,
     "timeWeek": 116,
@@ -299,7 +300,7 @@
     "timeMonth": 569,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2024-06-03": 84,
+      "2024-06-03": 114,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -568,7 +569,7 @@
     "timeMonth": 0,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2024-06-03": 84,
+      "2024-06-03": 114,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
