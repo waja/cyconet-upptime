@@ -4,19 +4,20 @@
     "url": "https://www.cyconet.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyconet.org.ico",
     "slug": "cyconet-org",
-    "status": "down",
+    "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "50.17%",
-    "uptimeWeek": "39.23%",
-    "uptimeMonth": "54.65%",
-    "uptimeYear": "96.22%",
+    "uptimeDay": "50.19%",
+    "uptimeWeek": "39.24%",
+    "uptimeMonth": "54.53%",
+    "uptimeYear": "96.21%",
     "time": 657,
-    "timeDay": 675,
-    "timeWeek": 624,
+    "timeDay": 671,
+    "timeWeek": 625,
     "timeMonth": 628,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-06-11": 708,
+      "2024-06-12": 43,
+      "2024-06-11": 717,
       "2024-06-10": 431,
       "2024-06-09": 816,
       "2024-06-08": 816,
@@ -116,15 +117,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
+    "uptimeYear": "99.66%",
     "time": 125,
     "timeDay": 144,
     "timeWeek": 94,
     "timeMonth": 103,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2023-08-09": 18,
-      "2023-06-13": 352
+      "2023-08-09": 18
     }
   },
   {
@@ -182,7 +182,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 142,
     "timeDay": 169,
     "timeWeek": 118,
@@ -194,8 +194,7 @@
       "2024-01-23": 31,
       "2023-11-06": 24,
       "2023-09-23": 15,
-      "2023-09-22": 158,
-      "2023-06-13": 352
+      "2023-09-22": 158
     }
   },
   {
@@ -208,7 +207,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 123,
     "timeDay": 168,
     "timeWeek": 117,
@@ -220,8 +219,7 @@
       "2024-01-23": 30,
       "2023-11-06": 24,
       "2023-09-23": 15,
-      "2023-09-22": 156,
-      "2023-06-13": 352
+      "2023-09-22": 156
     }
   },
   {
@@ -234,7 +232,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 124,
     "timeDay": 169,
     "timeWeek": 118,
@@ -246,8 +244,7 @@
       "2024-01-23": 29,
       "2023-11-06": 24,
       "2023-09-23": 15,
-      "2023-09-22": 155,
-      "2023-06-13": 352
+      "2023-09-22": 155
     }
   },
   {
@@ -256,18 +253,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "monitoring-platform",
     "status": "down",
-    "uptime": "94.93%",
+    "uptime": "94.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.27%",
+    "uptimeYear": "84.26%",
     "time": 569,
     "timeDay": 814,
     "timeWeek": 570,
     "timeMonth": 576,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2024-06-11": 1431,
+      "2024-06-12": 44,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -505,15 +503,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 204,
     "timeDay": 168,
     "timeWeek": 117,
     "timeMonth": 125,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2024-01-23": 56,
-      "2023-06-13": 363
+      "2024-01-23": 56
     }
   },
   {
@@ -526,14 +523,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.36%",
+    "uptimeYear": "65.35%",
     "time": 637,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2024-06-11": 1432,
+      "2024-06-12": 44,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -760,8 +758,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1072
+      "2023-06-14": 1440
     }
   },
   {
@@ -833,8 +830,7 @@
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 431,
-      "2023-06-14": 281,
-      "2023-06-13": 163
+      "2023-06-14": 281
     }
   }
 ]
