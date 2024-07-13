@@ -4,18 +4,19 @@
     "url": "https://www.cyconet.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyconet.org.ico",
     "slug": "cyconet-org",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "43.98%",
-    "uptimeWeek": "42.53%",
-    "uptimeMonth": "49.61%",
-    "uptimeYear": "95.80%",
-    "time": 652,
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "43.96%",
+    "uptimeWeek": "42.52%",
+    "uptimeMonth": "50.71%",
+    "uptimeYear": "95.89%",
+    "time": 653,
     "timeDay": 648,
     "timeWeek": 632,
     "timeMonth": 628,
     "timeYear": 653,
     "dailyMinutesDown": {
+      "2024-07-13": 0,
       "2024-07-12": 868,
       "2024-07-11": 758,
       "2024-07-10": 115,
@@ -40,7 +41,7 @@
       "2024-06-21": 1061,
       "2024-06-20": 946,
       "2024-06-19": 944,
-      "2024-06-18": 599
+      "2024-06-18": 117
     }
   },
   {
@@ -155,7 +156,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$treafik_uri.ico",
     "slug": "traefik-router",
     "status": "up",
-    "uptime": "95.23%",
+    "uptime": "95.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -266,7 +267,7 @@
     "timeMonth": 569,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2024-07-13": 86,
+      "2024-07-13": 95,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
@@ -560,7 +561,7 @@
     "timeMonth": 0,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2024-07-13": 86,
+      "2024-07-13": 96,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
