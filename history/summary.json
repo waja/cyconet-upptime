@@ -238,7 +238,7 @@
     "timeMonth": 658,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-05-17": 1423,
+      "2025-05-17": 1435,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
@@ -678,19 +678,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "41.70%",
+    "uptimeDay": "41.67%",
     "uptimeWeek": "89.12%",
     "uptimeMonth": "97.50%",
     "uptimeYear": "99.78%",
     "time": 776,
-    "timeDay": 967,
+    "timeDay": 966,
     "timeWeek": 941,
     "timeMonth": 910,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2025-05-17": 839,
+      "2025-05-17": 840,
       "2025-05-16": 258,
       "2025-03-05": 35
     }
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 1424,
+      "2025-05-17": 1436,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
@@ -1195,8 +1195,8 @@
     "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.37%",
-    "uptimeMonth": "95.71%",
+    "uptimeWeek": "81.25%",
+    "uptimeMonth": "95.68%",
     "uptimeYear": "99.64%",
     "time": 114,
     "timeDay": 0,
@@ -1204,7 +1204,7 @@
     "timeMonth": 126,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-05-17": 1424,
+      "2025-05-17": 1436,
       "2025-05-16": 455
     }
   },
@@ -1215,9 +1215,9 @@
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "25.49%",
-    "uptimeWeek": "85.65%",
-    "uptimeMonth": "96.70%",
+    "uptimeDay": "25.48%",
+    "uptimeWeek": "85.54%",
+    "uptimeMonth": "96.67%",
     "uptimeYear": "99.72%",
     "time": 124,
     "timeDay": 108,
@@ -1225,7 +1225,7 @@
     "timeMonth": 121,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-05-17": 1063,
+      "2025-05-17": 1074,
       "2025-05-16": 385,
       "2024-11-06": 19
     }
