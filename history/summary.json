@@ -238,7 +238,7 @@
     "timeMonth": 653,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-05-17": 860,
+      "2025-05-17": 878,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
@@ -678,10 +678,10 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "48.32%",
-    "uptimeWeek": "92.62%",
+    "uptimeDay": "48.25%",
+    "uptimeWeek": "92.61%",
     "uptimeMonth": "98.30%",
     "uptimeYear": "99.85%",
     "time": 770,
@@ -690,7 +690,7 @@
     "timeMonth": 892,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2025-05-17": 487,
+      "2025-05-17": 488,
       "2025-05-16": 258,
       "2025-03-05": 35
     }
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 860,
+      "2025-05-17": 878,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
       "2025-05-14": 1440,
@@ -1194,9 +1194,9 @@
     "slug": "oracle-cloud-31-alma-linux-9",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "8.69%",
-    "uptimeWeek": "86.96%",
-    "uptimeMonth": "97.00%",
+    "uptimeDay": "7.45%",
+    "uptimeWeek": "86.78%",
+    "uptimeMonth": "96.96%",
     "uptimeYear": "99.75%",
     "time": 114,
     "timeDay": 90,
@@ -1204,7 +1204,7 @@
     "timeMonth": 125,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-05-17": 860,
+      "2025-05-17": 878,
       "2025-05-16": 455
     }
   },
@@ -1215,9 +1215,9 @@
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "28.94%",
-    "uptimeWeek": "89.85%",
-    "uptimeMonth": "97.66%",
+    "uptimeDay": "27.69%",
+    "uptimeWeek": "89.67%",
+    "uptimeMonth": "97.62%",
     "uptimeYear": "99.80%",
     "time": 118,
     "timeDay": 104,
@@ -1225,7 +1225,7 @@
     "timeMonth": 122,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-05-17": 638,
+      "2025-05-17": 656,
       "2025-05-16": 385,
       "2024-11-06": 19
     }
