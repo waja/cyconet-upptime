@@ -238,7 +238,7 @@
     "timeMonth": 658,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-05-18": 1306,
+      "2025-05-18": 1318,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -681,8 +681,8 @@
     "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "25.89%",
-    "uptimeWeek": "79.20%",
-    "uptimeMonth": "95.21%",
+    "uptimeWeek": "79.08%",
+    "uptimeMonth": "95.19%",
     "uptimeYear": "99.59%",
     "time": 781,
     "timeDay": 948,
@@ -690,7 +690,7 @@
     "timeMonth": 914,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2025-05-18": 995,
+      "2025-05-18": 1006,
       "2025-05-17": 844,
       "2025-05-16": 258,
       "2025-03-05": 35
@@ -785,7 +785,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 1307,
+      "2025-05-18": 1318,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1196,8 +1196,8 @@
     "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.24%",
-    "uptimeMonth": "92.69%",
+    "uptimeWeek": "68.13%",
+    "uptimeMonth": "92.67%",
     "uptimeYear": "99.39%",
     "time": 114,
     "timeDay": 0,
@@ -1205,7 +1205,7 @@
     "timeMonth": 126,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-05-18": 1307,
+      "2025-05-18": 1318,
       "2025-05-17": 1440,
       "2025-05-16": 455
     }
@@ -1215,11 +1215,11 @@
     "url": "$OC32_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "23.19%",
-    "uptimeWeek": "75.26%",
-    "uptimeMonth": "94.31%",
+    "uptimeDay": "24.77%",
+    "uptimeWeek": "75.37%",
+    "uptimeMonth": "94.33%",
     "uptimeYear": "99.52%",
     "time": 119,
     "timeDay": 109,
@@ -1227,7 +1227,7 @@
     "timeMonth": 119,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-05-18": 1032,
+      "2025-05-18": 1021,
       "2025-05-17": 1079,
       "2025-05-16": 385,
       "2024-11-06": 19
