@@ -238,7 +238,7 @@
     "timeMonth": 658,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-05-18": 559,
+      "2025-05-18": 574,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -680,7 +680,7 @@
     "slug": "paste-system",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "26.52%",
+    "uptimeDay": "27.54%",
     "uptimeWeek": "84.11%",
     "uptimeMonth": "96.34%",
     "uptimeYear": "99.69%",
@@ -785,7 +785,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 559,
+      "2025-05-18": 574,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1196,8 +1196,8 @@
     "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.66%",
-    "uptimeMonth": "94.40%",
+    "uptimeWeek": "75.51%",
+    "uptimeMonth": "94.36%",
     "uptimeYear": "99.53%",
     "time": 114,
     "timeDay": 0,
@@ -1205,7 +1205,7 @@
     "timeMonth": 126,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-05-18": 559,
+      "2025-05-18": 574,
       "2025-05-17": 1440,
       "2025-05-16": 455
     }
@@ -1215,9 +1215,9 @@
     "url": "$OC32_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "23.96%",
+    "uptimeDay": "24.94%",
     "uptimeWeek": "81.37%",
     "uptimeMonth": "95.71%",
     "uptimeYear": "99.64%",
@@ -1227,7 +1227,7 @@
     "timeMonth": 121,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-05-18": 415,
+      "2025-05-18": 416,
       "2025-05-17": 1079,
       "2025-05-16": 385,
       "2024-11-06": 19
