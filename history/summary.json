@@ -238,7 +238,7 @@
     "timeMonth": 658,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-05-18": 462,
+      "2025-05-18": 474,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -678,9 +678,9 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "28.27%",
+    "uptimeDay": "29.03%",
     "uptimeWeek": "84.83%",
     "uptimeMonth": "96.51%",
     "uptimeYear": "99.70%",
@@ -690,7 +690,7 @@
     "timeMonth": 914,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2025-05-18": 427,
+      "2025-05-18": 428,
       "2025-05-17": 844,
       "2025-05-16": 258,
       "2025-03-05": 35
@@ -785,7 +785,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 463,
+      "2025-05-18": 474,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1194,10 +1194,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-31-alma-linux-9",
     "status": "down",
-    "uptime": "99.77%",
+    "uptime": "99.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.61%",
-    "uptimeMonth": "94.62%",
+    "uptimeWeek": "76.50%",
+    "uptimeMonth": "94.59%",
     "uptimeYear": "99.55%",
     "time": 114,
     "timeDay": 0,
@@ -1205,7 +1205,7 @@
     "timeMonth": 126,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-05-18": 463,
+      "2025-05-18": 474,
       "2025-05-17": 1440,
       "2025-05-16": 455
     }
@@ -1215,10 +1215,10 @@
     "url": "$OC32_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "23.55%",
-    "uptimeWeek": "82.22%",
+    "uptimeDay": "23.91%",
+    "uptimeWeek": "82.21%",
     "uptimeMonth": "95.91%",
     "uptimeYear": "99.66%",
     "time": 122,
@@ -1227,7 +1227,7 @@
     "timeMonth": 120,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2025-05-18": 330,
+      "2025-05-18": 331,
       "2025-05-17": 1079,
       "2025-05-16": 385,
       "2024-11-06": 19
