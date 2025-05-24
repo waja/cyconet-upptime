@@ -243,7 +243,7 @@
     "timeMonth": 657,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2025-05-24": 1005,
+      "2025-05-24": 1017,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -686,27 +686,26 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "38.58%",
+    "uptimeDay": "38.98%",
     "uptimeWeek": "40.22%",
-    "uptimeMonth": "84.92%",
-    "uptimeYear": "98.74%",
+    "uptimeMonth": "84.96%",
+    "uptimeYear": "98.75%",
     "time": 799,
     "timeDay": 988,
-    "timeWeek": 945,
+    "timeWeek": 944,
     "timeMonth": 932,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2025-05-24": 654,
+      "2025-05-24": 655,
       "2025-05-23": 919,
       "2025-05-22": 678,
       "2025-05-21": 686,
       "2025-05-20": 894,
       "2025-05-19": 800,
       "2025-05-18": 1108,
-      "2025-05-17": 844,
-      "2025-05-16": 19
+      "2025-05-17": 844
     }
   },
   {
@@ -798,7 +797,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-24": 1005,
+      "2025-05-24": 1017,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -1210,7 +1209,7 @@
     "uptime": "98.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "73.66%",
+    "uptimeMonth": "73.63%",
     "uptimeYear": "97.80%",
     "time": 114,
     "timeDay": 0,
@@ -1218,7 +1217,7 @@
     "timeMonth": 129,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-05-24": 1005,
+      "2025-05-24": 1017,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -1234,10 +1233,10 @@
     "url": "$OC32_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "30.25%",
-    "uptimeWeek": "25.35%",
+    "uptimeDay": "31.03%",
+    "uptimeWeek": "25.46%",
     "uptimeMonth": "80.22%",
     "uptimeYear": "98.35%",
     "time": 115,
@@ -1246,7 +1245,7 @@
     "timeMonth": 111,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-05-24": 664,
+      "2025-05-24": 665,
       "2025-05-23": 1114,
       "2025-05-22": 982,
       "2025-05-21": 1054,
@@ -1254,8 +1253,7 @@
       "2025-05-19": 1203,
       "2025-05-18": 1127,
       "2025-05-17": 1079,
-      "2025-05-16": 385,
-      "2024-11-06": 19
+      "2025-05-16": 385
     }
   },
   {
