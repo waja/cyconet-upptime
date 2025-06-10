@@ -246,7 +246,7 @@
     "timeMonth": 631,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2025-06-10": 457,
+      "2025-06-10": 469,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -689,19 +689,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "47.94%",
+    "uptimeDay": "47.90%",
     "uptimeWeek": "36.13%",
-    "uptimeMonth": "83.08%",
-    "uptimeYear": "98.59%",
+    "uptimeMonth": "83.30%",
+    "uptimeYear": "98.61%",
     "time": 850,
     "timeDay": 977,
     "timeWeek": 990,
     "timeMonth": 958,
     "timeYear": 878,
     "dailyMinutesDown": {
-      "2025-06-10": 219,
+      "2025-06-10": 220,
       "2025-06-09": 916,
       "2025-06-08": 1132,
       "2025-06-07": 807,
@@ -709,7 +709,7 @@
       "2025-06-05": 773,
       "2025-06-04": 993,
       "2025-06-03": 990,
-      "2025-06-02": 627
+      "2025-06-02": 530
     }
   },
   {
@@ -801,7 +801,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-10": 457,
+      "2025-06-10": 469,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -1213,7 +1213,7 @@
     "uptime": "96.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.02%",
+    "uptimeMonth": "19.00%",
     "uptimeYear": "93.25%",
     "time": 115,
     "timeDay": 0,
@@ -1221,7 +1221,7 @@
     "timeMonth": 135,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-10": 458,
+      "2025-06-10": 469,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -1258,7 +1258,7 @@
     "uptime": "99.01%",
     "uptimeDay": "11.23%",
     "uptimeWeek": "22.61%",
-    "uptimeMonth": "76.28%",
+    "uptimeMonth": "76.25%",
     "uptimeYear": "98.02%",
     "time": 113,
     "timeDay": 119,
@@ -1266,7 +1266,7 @@
     "timeMonth": 108,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-06-10": 458,
+      "2025-06-10": 469,
       "2025-06-09": 1248,
       "2025-06-08": 1246,
       "2025-06-07": 1058,
