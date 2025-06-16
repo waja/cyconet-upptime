@@ -246,7 +246,7 @@
     "timeMonth": 610,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2025-06-16": 862,
+      "2025-06-16": 884,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -689,19 +689,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "34.88%",
-    "uptimeWeek": "35.91%",
-    "uptimeMonth": "83.82%",
-    "uptimeYear": "98.65%",
-    "time": 856,
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "34.83%",
+    "uptimeWeek": "35.97%",
+    "uptimeMonth": "83.87%",
+    "uptimeYear": "98.66%",
+    "time": 857,
     "timeDay": 942,
     "timeWeek": 948,
     "timeMonth": 957,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2025-06-16": 598,
+      "2025-06-16": 599,
       "2025-06-15": 979,
       "2025-06-14": 888,
       "2025-06-13": 793,
@@ -709,7 +709,7 @@
       "2025-06-11": 933,
       "2025-06-10": 766,
       "2025-06-09": 916,
-      "2025-06-08": 85
+      "2025-06-08": 61
     }
   },
   {
@@ -801,7 +801,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-16": 863,
+      "2025-06-16": 885,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -1222,7 +1222,7 @@
     "timeMonth": 90,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-16": 863,
+      "2025-06-16": 885,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -1264,8 +1264,8 @@
     "status": "down",
     "uptime": "98.86%",
     "uptimeDay": "19.50%",
-    "uptimeWeek": "21.39%",
-    "uptimeMonth": "72.58%",
+    "uptimeWeek": "21.24%",
+    "uptimeMonth": "72.53%",
     "uptimeYear": "97.71%",
     "time": 113,
     "timeDay": 108,
@@ -1273,7 +1273,7 @@
     "timeMonth": 107,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-16": 701,
+      "2025-06-16": 723,
       "2025-06-15": 1100,
       "2025-06-14": 1025,
       "2025-06-13": 1093,
