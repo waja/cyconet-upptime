@@ -246,7 +246,7 @@
     "timeMonth": 611,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2025-06-19": 1313,
+      "2025-06-19": 1336,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -689,19 +689,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "31.50%",
-    "uptimeWeek": "36.95%",
-    "uptimeMonth": "83.06%",
+    "uptimeDay": "31.45%",
+    "uptimeWeek": "37.17%",
+    "uptimeMonth": "83.13%",
     "uptimeYear": "98.59%",
     "time": 862,
-    "timeDay": 908,
+    "timeDay": 903,
     "timeWeek": 959,
     "timeMonth": 962,
     "timeYear": 892,
     "dailyMinutesDown": {
-      "2025-06-19": 904,
+      "2025-06-19": 905,
       "2025-06-18": 801,
       "2025-06-17": 860,
       "2025-06-16": 1029,
@@ -709,7 +709,7 @@
       "2025-06-14": 888,
       "2025-06-13": 793,
       "2025-06-12": 1127,
-      "2025-06-11": 34
+      "2025-06-11": 4
     }
   },
   {
@@ -802,7 +802,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-19": 1313,
+      "2025-06-19": 1337,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -1223,7 +1223,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-19": 1314,
+      "2025-06-19": 1337,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -1268,8 +1268,8 @@
     "status": "down",
     "uptime": "98.91%",
     "uptimeDay": "17.26%",
-    "uptimeWeek": "22.45%",
-    "uptimeMonth": "73.63%",
+    "uptimeWeek": "22.27%",
+    "uptimeMonth": "73.58%",
     "uptimeYear": "97.80%",
     "time": 113,
     "timeDay": 106,
@@ -1277,7 +1277,7 @@
     "timeMonth": 107,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-19": 1083,
+      "2025-06-19": 1107,
       "2025-06-18": 1085,
       "2025-06-17": 1184,
       "2025-06-16": 1167,
