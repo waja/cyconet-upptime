@@ -246,7 +246,7 @@
     "timeMonth": 611,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2025-06-19": 704,
+      "2025-06-19": 716,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -689,19 +689,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "42.01%",
-    "uptimeWeek": "38.02%",
-    "uptimeMonth": "83.69%",
-    "uptimeYear": "98.64%",
+    "uptimeDay": "42.27%",
+    "uptimeWeek": "38.13%",
+    "uptimeMonth": "83.82%",
+    "uptimeYear": "98.65%",
     "time": 861,
     "timeDay": 930,
     "timeWeek": 956,
     "timeMonth": 961,
     "timeYear": 892,
     "dailyMinutesDown": {
-      "2025-06-19": 418,
+      "2025-06-19": 419,
       "2025-06-18": 801,
       "2025-06-17": 860,
       "2025-06-16": 1029,
@@ -709,7 +709,7 @@
       "2025-06-14": 888,
       "2025-06-13": 793,
       "2025-06-12": 1127,
-      "2025-06-11": 247
+      "2025-06-11": 190
     }
   },
   {
@@ -801,7 +801,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-19": 704,
+      "2025-06-19": 716,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -1222,7 +1222,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-19": 704,
+      "2025-06-19": 716,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -1266,9 +1266,9 @@
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
     "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "20.49%",
+    "uptimeDay": "20.15%",
     "uptimeWeek": "22.25%",
-    "uptimeMonth": "73.36%",
+    "uptimeMonth": "73.34%",
     "uptimeYear": "97.78%",
     "time": 113,
     "timeDay": 109,
@@ -1276,7 +1276,7 @@
     "timeMonth": 107,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-19": 589,
+      "2025-06-19": 601,
       "2025-06-18": 1085,
       "2025-06-17": 1184,
       "2025-06-16": 1167,
