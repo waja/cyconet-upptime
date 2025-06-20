@@ -246,7 +246,7 @@
     "timeMonth": 611,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2025-06-20": 399,
+      "2025-06-20": 417,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
@@ -689,19 +689,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "38.44%",
-    "uptimeWeek": "38.04%",
-    "uptimeMonth": "83.96%",
-    "uptimeYear": "98.66%",
+    "uptimeDay": "39.41%",
+    "uptimeWeek": "38.21%",
+    "uptimeMonth": "84.08%",
+    "uptimeYear": "98.67%",
     "time": 863,
-    "timeDay": 940,
+    "timeDay": 953,
     "timeWeek": 965,
     "timeMonth": 964,
     "timeYear": 894,
     "dailyMinutesDown": {
-      "2025-06-20": 146,
+      "2025-06-20": 147,
       "2025-06-19": 961,
       "2025-06-18": 801,
       "2025-06-17": 860,
@@ -709,7 +709,7 @@
       "2025-06-15": 979,
       "2025-06-14": 888,
       "2025-06-13": 793,
-      "2025-06-12": 565
+      "2025-06-12": 512
     }
   },
   {
@@ -802,7 +802,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-20": 400,
+      "2025-06-20": 417,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
@@ -1223,7 +1223,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-20": 400,
+      "2025-06-20": 418,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
@@ -1266,19 +1266,19 @@
     "url": "$OC32_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "16.35%",
-    "uptimeWeek": "21.65%",
-    "uptimeMonth": "72.67%",
-    "uptimeYear": "97.72%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "17.53%",
+    "uptimeWeek": "21.81%",
+    "uptimeMonth": "72.71%",
+    "uptimeYear": "97.73%",
     "time": 113,
     "timeDay": 124,
     "timeWeek": 110,
     "timeMonth": 107,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-20": 316,
+      "2025-06-20": 317,
       "2025-06-19": 1210,
       "2025-06-18": 1085,
       "2025-06-17": 1184,
@@ -1289,7 +1289,7 @@
       "2025-06-12": 1225,
       "2025-06-11": 1094,
       "2025-06-10": 1244,
-      "2025-06-09": 225
+      "2025-06-09": 208
     }
   },
   {
