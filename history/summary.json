@@ -246,7 +246,7 @@
     "timeMonth": 601,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2025-06-23": 139,
+      "2025-06-23": 144,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -689,18 +689,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
-    "uptime": "99.70%",
-    "uptimeDay": "47.78%",
-    "uptimeWeek": "40.39%",
-    "uptimeMonth": "85.28%",
-    "uptimeYear": "98.77%",
+    "status": "down",
+    "uptime": "99.71%",
+    "uptimeDay": "47.75%",
+    "uptimeWeek": "40.44%",
+    "uptimeMonth": "85.43%",
+    "uptimeYear": "98.79%",
     "time": 867,
     "timeDay": 888,
     "timeWeek": 979,
     "timeMonth": 967,
     "timeYear": 898,
     "dailyMinutesDown": {
+      "2025-06-23": 0,
       "2025-06-22": 751,
       "2025-06-21": 919,
       "2025-06-20": 823,
@@ -708,7 +709,7 @@
       "2025-06-18": 801,
       "2025-06-17": 860,
       "2025-06-16": 1029,
-      "2025-06-15": 302
+      "2025-06-15": 236
     }
   },
   {
@@ -801,7 +802,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-23": 139,
+      "2025-06-23": 145,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -1222,7 +1223,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-23": 139,
+      "2025-06-23": 145,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
       "2025-06-20": 1440,
@@ -1272,7 +1273,7 @@
     "uptime": "99.03%",
     "uptimeDay": "13.52%",
     "uptimeWeek": "20.44%",
-    "uptimeMonth": "76.45%",
+    "uptimeMonth": "76.44%",
     "uptimeYear": "98.04%",
     "time": 113,
     "timeDay": 100,
@@ -1280,7 +1281,7 @@
     "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-23": 139,
+      "2025-06-23": 145,
       "2025-06-22": 1246,
       "2025-06-21": 1095,
       "2025-06-20": 1032,
