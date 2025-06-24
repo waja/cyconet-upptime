@@ -246,7 +246,7 @@
     "timeMonth": 599,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2025-06-24": 1363,
+      "2025-06-24": 1374,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -691,9 +691,9 @@
     "slug": "paste-system",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "53.20%",
+    "uptimeDay": "52.40%",
     "uptimeWeek": "43.00%",
-    "uptimeMonth": "85.96%",
+    "uptimeMonth": "85.93%",
     "uptimeYear": "98.83%",
     "time": 877,
     "timeDay": 1021,
@@ -701,7 +701,7 @@
     "timeMonth": 969,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2025-06-24": 653,
+      "2025-06-24": 665,
       "2025-06-23": 766,
       "2025-06-22": 751,
       "2025-06-21": 919,
@@ -801,7 +801,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-24": 1363,
+      "2025-06-24": 1375,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -1222,7 +1222,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-24": 1363,
+      "2025-06-24": 1375,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -1269,19 +1269,19 @@
     "url": "$OC32_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "27.91%",
-    "uptimeWeek": "21.63%",
-    "uptimeMonth": "75.12%",
-    "uptimeYear": "97.93%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "28.66%",
+    "uptimeWeek": "21.73%",
+    "uptimeMonth": "75.94%",
+    "uptimeYear": "97.99%",
     "time": 113,
     "timeDay": 100,
     "timeWeek": 112,
     "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-24": 971,
+      "2025-06-24": 972,
       "2025-06-23": 1185,
       "2025-06-22": 1246,
       "2025-06-21": 1095,
@@ -1290,7 +1290,7 @@
       "2025-06-18": 1085,
       "2025-06-17": 1184,
       "2025-06-16": 1167,
-      "2025-06-15": 726
+      "2025-06-15": 364
     }
   },
   {
