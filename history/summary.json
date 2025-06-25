@@ -246,7 +246,8 @@
     "timeMonth": 611,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-06-24": 1430,
+      "2025-06-25": 54,
+      "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -609,8 +610,7 @@
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
-      "2024-06-26": 1440,
-      "2024-06-25": 1440
+      "2024-06-26": 1440
     }
   },
   {
@@ -689,18 +689,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "50.22%",
-    "uptimeWeek": "43.13%",
-    "uptimeMonth": "85.84%",
-    "uptimeYear": "98.82%",
+    "uptimeDay": "54.60%",
+    "uptimeWeek": "43.16%",
+    "uptimeMonth": "86.06%",
+    "uptimeYear": "98.84%",
     "time": 878,
     "timeDay": 1002,
-    "timeWeek": 981,
+    "timeWeek": 977,
     "timeMonth": 969,
     "timeYear": 902,
     "dailyMinutesDown": {
+      "2025-06-25": 1,
       "2025-06-24": 707,
       "2025-06-23": 766,
       "2025-06-22": 751,
@@ -708,7 +709,7 @@
       "2025-06-20": 823,
       "2025-06-19": 961,
       "2025-06-18": 801,
-      "2025-06-17": 475
+      "2025-06-17": 375
     }
   },
   {
@@ -790,7 +791,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$shared_host.ico",
     "slug": "shared-hosting",
     "status": "down",
-    "uptime": "65.86%",
+    "uptime": "65.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -801,7 +802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-24": 1430,
+      "2025-06-25": 54,
+      "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -1164,8 +1166,7 @@
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
-      "2024-06-26": 1440,
-      "2024-06-25": 1440
+      "2024-06-26": 1440
     }
   },
   {
@@ -1211,18 +1212,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-31-alma-linux-9",
     "status": "down",
-    "uptime": "94.71%",
+    "uptime": "94.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "89.23%",
+    "uptimeYear": "89.22%",
     "time": 115,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-24": 1430,
+      "2025-06-25": 54,
+      "2025-06-24": 1440,
       "2025-06-23": 1440,
       "2025-06-22": 1440,
       "2025-06-21": 1440,
@@ -1271,17 +1273,18 @@
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
     "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "29.44%",
+    "uptimeDay": "25.01%",
     "uptimeWeek": "21.84%",
-    "uptimeMonth": "75.88%",
-    "uptimeYear": "97.99%",
+    "uptimeMonth": "75.73%",
+    "uptimeYear": "97.98%",
     "time": 113,
-    "timeDay": 99,
+    "timeDay": 97,
     "timeWeek": 111,
     "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-24": 1016,
+      "2025-06-25": 54,
+      "2025-06-24": 1025,
       "2025-06-23": 1185,
       "2025-06-22": 1246,
       "2025-06-21": 1095,
