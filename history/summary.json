@@ -246,7 +246,7 @@
     "timeMonth": 610,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-06-26": 1287,
+      "2025-06-26": 1315,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -689,16 +689,16 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "34.76%",
-    "uptimeWeek": "42.38%",
-    "uptimeMonth": "84.35%",
+    "uptimeDay": "34.72%",
+    "uptimeWeek": "42.63%",
+    "uptimeMonth": "84.45%",
     "uptimeYear": "98.70%",
     "time": 871,
     "timeDay": 942,
     "timeWeek": 975,
-    "timeMonth": 970,
+    "timeMonth": 971,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2025-06-26": 854,
@@ -709,7 +709,7 @@
       "2025-06-21": 919,
       "2025-06-20": 823,
       "2025-06-19": 961,
-      "2025-06-18": 170
+      "2025-06-18": 123
     }
   },
   {
@@ -803,7 +803,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-26": 1287,
+      "2025-06-26": 1315,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -1217,14 +1217,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.71%",
+    "uptimeYear": "88.70%",
     "time": 115,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-26": 1287,
+      "2025-06-26": 1315,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
@@ -1277,7 +1277,7 @@
     "uptime": "98.98%",
     "uptimeDay": "21.06%",
     "uptimeWeek": "21.62%",
-    "uptimeMonth": "75.10%",
+    "uptimeMonth": "75.04%",
     "uptimeYear": "97.92%",
     "time": 113,
     "timeDay": 103,
@@ -1285,7 +1285,7 @@
     "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-26": 1004,
+      "2025-06-26": 1032,
       "2025-06-25": 1162,
       "2025-06-24": 1025,
       "2025-06-23": 1185,
