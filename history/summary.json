@@ -245,7 +245,7 @@
     "timeMonth": 599,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-06-29": 690,
+      "2025-06-29": 703,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -688,19 +688,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "28.14%",
-    "uptimeWeek": "37.09%",
-    "uptimeMonth": "83.93%",
-    "uptimeYear": "98.66%",
+    "uptimeDay": "28.98%",
+    "uptimeWeek": "37.16%",
+    "uptimeMonth": "84.17%",
+    "uptimeYear": "98.68%",
     "time": 886,
     "timeDay": 977,
     "timeWeek": 955,
     "timeMonth": 972,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2025-06-29": 463,
+      "2025-06-29": 464,
       "2025-06-28": 1048,
       "2025-06-27": 975,
       "2025-06-26": 963,
@@ -708,7 +708,7 @@
       "2025-06-24": 707,
       "2025-06-23": 766,
       "2025-06-22": 751,
-      "2025-06-21": 459
+      "2025-06-21": 354
     }
   },
   {
@@ -802,7 +802,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 690,
+      "2025-06-29": 704,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -1223,7 +1223,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-29": 690,
+      "2025-06-29": 704,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -1275,19 +1275,19 @@
     "url": "$OC32_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "10.89%",
-    "uptimeWeek": "19.76%",
-    "uptimeMonth": "71.22%",
-    "uptimeYear": "97.60%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "11.75%",
+    "uptimeWeek": "19.88%",
+    "uptimeMonth": "71.42%",
+    "uptimeYear": "97.62%",
     "time": 112,
     "timeDay": 90,
     "timeWeek": 106,
     "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-29": 571,
+      "2025-06-29": 572,
       "2025-06-28": 1279,
       "2025-06-27": 1098,
       "2025-06-26": 1156,
@@ -1298,7 +1298,7 @@
       "2025-06-21": 1095,
       "2025-06-20": 1032,
       "2025-06-19": 1210,
-      "2025-06-18": 548
+      "2025-06-18": 459
     }
   },
   {
