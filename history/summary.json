@@ -245,7 +245,7 @@
     "timeMonth": 599,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-06-29": 642,
+      "2025-06-29": 654,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -688,19 +688,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "27.63%",
-    "uptimeWeek": "37.29%",
-    "uptimeMonth": "83.92%",
-    "uptimeYear": "98.66%",
-    "time": 885,
+    "uptimeDay": "28.10%",
+    "uptimeWeek": "37.41%",
+    "uptimeMonth": "84.01%",
+    "uptimeYear": "98.67%",
+    "time": 886,
     "timeDay": 968,
     "timeWeek": 954,
     "timeMonth": 971,
     "timeYear": 905,
     "dailyMinutesDown": {
-      "2025-06-29": 427,
+      "2025-06-29": 428,
       "2025-06-28": 1048,
       "2025-06-27": 975,
       "2025-06-26": 963,
@@ -708,7 +708,7 @@
       "2025-06-24": 707,
       "2025-06-23": 766,
       "2025-06-22": 751,
-      "2025-06-21": 500
+      "2025-06-21": 459
     }
   },
   {
@@ -802,7 +802,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 642,
+      "2025-06-29": 654,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -1223,7 +1223,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-29": 642,
+      "2025-06-29": 654,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -1277,9 +1277,9 @@
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
     "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "13.62%",
+    "uptimeDay": "12.78%",
     "uptimeWeek": "19.75%",
-    "uptimeMonth": "71.33%",
+    "uptimeMonth": "71.30%",
     "uptimeYear": "97.61%",
     "time": 112,
     "timeDay": 90,
@@ -1287,7 +1287,7 @@
     "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-29": 523,
+      "2025-06-29": 535,
       "2025-06-28": 1279,
       "2025-06-27": 1098,
       "2025-06-26": 1156,
