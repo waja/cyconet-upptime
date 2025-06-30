@@ -41,8 +41,7 @@
       "2024-07-04": 434,
       "2024-07-03": 906,
       "2024-07-02": 1077,
-      "2024-07-01": 1172,
-      "2024-06-30": 178
+      "2024-07-01": 1172
     }
   },
   {
@@ -234,7 +233,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$bb_host.ico",
     "slug": "monitoring-platform",
     "status": "down",
-    "uptime": "71.06%",
+    "uptime": "71.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -245,7 +244,8 @@
     "timeMonth": 598,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-06-29": 1439,
+      "2025-06-30": 132,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -608,8 +608,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   },
   {
@@ -667,7 +666,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$container_host.ico",
     "slug": "portainer-platform",
     "status": "up",
-    "uptime": "96.20%",
+    "uptime": "96.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -689,18 +688,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
     "status": "down",
-    "uptime": "99.68%",
+    "uptime": "99.67%",
     "uptimeDay": "30.29%",
-    "uptimeWeek": "36.83%",
-    "uptimeMonth": "83.97%",
-    "uptimeYear": "98.66%",
+    "uptimeWeek": "35.51%",
+    "uptimeMonth": "83.66%",
+    "uptimeYear": "98.64%",
     "time": 875,
     "timeDay": 950,
     "timeWeek": 960,
     "timeMonth": 970,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2025-06-29": 1002,
+      "2025-06-30": 132,
+      "2025-06-29": 1003,
       "2025-06-28": 1048,
       "2025-06-27": 975,
       "2025-06-26": 963,
@@ -790,7 +790,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$shared_host.ico",
     "slug": "shared-hosting",
     "status": "down",
-    "uptime": "65.64%",
+    "uptime": "65.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -801,7 +801,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 1439,
+      "2025-06-30": 133,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -1164,8 +1165,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   },
   {
@@ -1211,18 +1211,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-31-alma-linux-9",
     "status": "down",
-    "uptime": "94.07%",
+    "uptime": "94.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.86%",
+    "uptimeYear": "87.83%",
     "time": 115,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-29": 1439,
+      "2025-06-30": 133,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -1276,8 +1277,8 @@
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "26.66%",
-    "uptimeWeek": "21.02%",
+    "uptimeDay": "35.92%",
+    "uptimeWeek": "22.34%",
     "uptimeMonth": "71.89%",
     "uptimeYear": "97.66%",
     "time": 113,
