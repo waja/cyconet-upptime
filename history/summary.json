@@ -244,7 +244,7 @@
     "timeMonth": 598,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-06-30": 948,
+      "2025-06-30": 959,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -687,19 +687,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "26.45%",
-    "uptimeWeek": "35.30%",
-    "uptimeMonth": "82.59%",
+    "uptimeDay": "27.19%",
+    "uptimeWeek": "35.35%",
+    "uptimeMonth": "82.66%",
     "uptimeYear": "98.55%",
     "time": 876,
     "timeDay": 1007,
-    "timeWeek": 961,
+    "timeWeek": 960,
     "timeMonth": 972,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-06-30": 714,
+      "2025-06-30": 715,
       "2025-06-29": 1003,
       "2025-06-28": 1048,
       "2025-06-27": 975,
@@ -707,7 +707,7 @@
       "2025-06-25": 908,
       "2025-06-24": 707,
       "2025-06-23": 766,
-      "2025-06-22": 544
+      "2025-06-22": 514
     }
   },
   {
@@ -801,7 +801,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-30": 948,
+      "2025-06-30": 959,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -1222,7 +1222,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-06-30": 948,
+      "2025-06-30": 959,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -1277,8 +1277,8 @@
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
     "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "29.70%",
-    "uptimeWeek": "22.58%",
+    "uptimeDay": "29.86%",
+    "uptimeWeek": "22.69%",
     "uptimeMonth": "72.26%",
     "uptimeYear": "97.69%",
     "time": 113,
