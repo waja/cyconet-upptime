@@ -243,7 +243,7 @@
     "timeMonth": 592,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-07-01": 1335,
+      "2025-07-01": 1359,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -686,19 +686,19 @@
     "url": "https://$PASTE_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "42.08%",
-    "uptimeWeek": "32.89%",
-    "uptimeMonth": "82.94%",
-    "uptimeYear": "98.58%",
-    "time": 882,
-    "timeDay": 946,
-    "timeWeek": 945,
-    "timeMonth": 970,
+    "uptimeDay": "42.33%",
+    "uptimeWeek": "32.95%",
+    "uptimeMonth": "83.03%",
+    "uptimeYear": "98.59%",
+    "time": 883,
+    "timeDay": 942,
+    "timeWeek": 944,
+    "timeMonth": 971,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2025-07-01": 820,
+      "2025-07-01": 821,
       "2025-06-30": 985,
       "2025-06-29": 1003,
       "2025-06-28": 1048,
@@ -706,7 +706,7 @@
       "2025-06-26": 963,
       "2025-06-25": 908,
       "2025-06-24": 707,
-      "2025-06-23": 65
+      "2025-06-23": 21
     }
   },
   {
@@ -789,7 +789,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$shared_host.ico",
     "slug": "shared-hosting",
     "status": "down",
-    "uptime": "65.56%",
+    "uptime": "65.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -800,7 +800,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-01": 1336,
+      "2025-07-01": 1360,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -1221,7 +1221,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-07-01": 1336,
+      "2025-07-01": 1360,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -1275,11 +1275,11 @@
     "url": "$OC32_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
-    "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "19.36%",
-    "uptimeWeek": "21.76%",
-    "uptimeMonth": "71.51%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "20.97%",
+    "uptimeWeek": "21.99%",
+    "uptimeMonth": "71.60%",
     "uptimeYear": "97.63%",
     "time": 113,
     "timeDay": 117,
@@ -1287,7 +1287,7 @@
     "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-07-01": 1090,
+      "2025-07-01": 1091,
       "2025-06-30": 965,
       "2025-06-29": 1056,
       "2025-06-28": 1279,
@@ -1298,7 +1298,7 @@
       "2025-06-23": 1185,
       "2025-06-22": 1246,
       "2025-06-21": 1095,
-      "2025-06-20": 126
+      "2025-06-20": 84
     }
   },
   {
