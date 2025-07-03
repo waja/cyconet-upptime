@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.48%",
+    "uptimeYear": "96.49%",
     "time": 690,
     "timeDay": 798,
     "timeWeek": 651,
@@ -38,8 +38,7 @@
       "2024-07-07": 1016,
       "2024-07-06": 947,
       "2024-07-05": 897,
-      "2024-07-04": 434,
-      "2024-07-03": 906
+      "2024-07-04": 434
     }
   },
   {
@@ -184,7 +183,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-imap",
     "status": "up",
-    "uptime": "74.35%",
+    "uptime": "74.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -231,7 +230,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$bb_host.ico",
     "slug": "monitoring-platform",
     "status": "down",
-    "uptime": "70.92%",
+    "uptime": "70.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -242,7 +241,8 @@
     "timeMonth": 599,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2025-07-02": 1437,
+      "2025-07-03": 127,
+      "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -605,8 +605,7 @@
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440
+      "2024-07-04": 1440
     }
   },
   {
@@ -689,15 +688,16 @@
     "uptime": "99.64%",
     "uptimeDay": "26.73%",
     "uptimeWeek": "31.23%",
-    "uptimeMonth": "81.99%",
-    "uptimeYear": "98.50%",
+    "uptimeMonth": "81.69%",
+    "uptimeYear": "98.47%",
     "time": 889,
     "timeDay": 980,
     "timeWeek": 955,
     "timeMonth": 969,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2025-07-02": 1052,
+      "2025-07-03": 127,
+      "2025-07-02": 1055,
       "2025-07-01": 901,
       "2025-06-30": 985,
       "2025-06-29": 1003,
@@ -799,7 +799,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 1437,
+      "2025-07-03": 127,
+      "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -1162,8 +1163,7 @@
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440
+      "2024-07-04": 1440
     }
   },
   {
@@ -1210,18 +1210,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-31-alma-linux-9",
     "status": "down",
-    "uptime": "93.70%",
+    "uptime": "93.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "87.04%",
+    "uptimeYear": "87.01%",
     "time": 115,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-07-02": 1437,
+      "2025-07-03": 127,
+      "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -1277,18 +1278,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
     "status": "down",
-    "uptime": "98.78%",
+    "uptime": "98.76%",
     "uptimeDay": "13.90%",
     "uptimeWeek": "20.99%",
-    "uptimeMonth": "69.77%",
-    "uptimeYear": "97.48%",
+    "uptimeMonth": "69.48%",
+    "uptimeYear": "97.46%",
     "time": 112,
     "timeDay": 112,
     "timeWeek": 109,
     "timeMonth": 109,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-07-02": 1236,
+      "2025-07-03": 127,
+      "2025-07-02": 1239,
       "2025-07-01": 1171,
       "2025-06-30": 965,
       "2025-06-29": 1056,
