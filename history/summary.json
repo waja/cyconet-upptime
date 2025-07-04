@@ -37,8 +37,7 @@
       "2024-07-08": 973,
       "2024-07-07": 1016,
       "2024-07-06": 947,
-      "2024-07-05": 897,
-      "2024-07-04": 434
+      "2024-07-05": 897
     }
   },
   {
@@ -241,7 +240,8 @@
     "timeMonth": 593,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-07-03": 1438,
+      "2025-07-04": 126,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -604,8 +604,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -663,7 +662,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$container_host.ico",
     "slug": "portainer-platform",
     "status": "up",
-    "uptime": "96.21%",
+    "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -686,8 +685,8 @@
     "slug": "paste-system",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "33.20%",
-    "uptimeWeek": "31.24%",
+    "uptimeDay": "42.08%",
+    "uptimeWeek": "32.50%",
     "uptimeMonth": "83.07%",
     "uptimeYear": "98.59%",
     "time": 879,
@@ -786,7 +785,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$shared_host.ico",
     "slug": "shared-hosting",
     "status": "down",
-    "uptime": "65.47%",
+    "uptime": "65.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -797,7 +796,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-03": 1438,
+      "2025-07-04": 126,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -1160,8 +1160,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -1209,18 +1208,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-31-alma-linux-9",
     "status": "down",
-    "uptime": "93.57%",
+    "uptime": "93.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.76%",
+    "uptimeYear": "86.74%",
     "time": 115,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-07-03": 1438,
+      "2025-07-04": 126,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -1278,8 +1278,8 @@
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
     "status": "up",
     "uptime": "98.70%",
-    "uptimeDay": "10.26%",
-    "uptimeWeek": "19.64%",
+    "uptimeDay": "19.14%",
+    "uptimeWeek": "19.66%",
     "uptimeMonth": "67.80%",
     "uptimeYear": "97.32%",
     "time": 112,
