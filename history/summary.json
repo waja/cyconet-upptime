@@ -240,7 +240,7 @@
     "timeMonth": 593,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2025-07-04": 411,
+      "2025-07-04": 435,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -685,13 +685,13 @@
     "slug": "paste-system",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "44.02%",
-    "uptimeWeek": "31.65%",
+    "uptimeDay": "44.43%",
+    "uptimeWeek": "31.72%",
     "uptimeMonth": "82.79%",
     "uptimeYear": "98.57%",
     "time": 879,
-    "timeDay": 932,
-    "timeWeek": 954,
+    "timeDay": 933,
+    "timeWeek": 955,
     "timeMonth": 969,
     "timeYear": 909,
     "dailyMinutesDown": {
@@ -797,7 +797,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-04": 412,
+      "2025-07-04": 435,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -1209,7 +1209,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-31-alma-linux-9",
     "status": "down",
-    "uptime": "93.54%",
+    "uptime": "93.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1220,7 +1220,7 @@
     "timeMonth": 0,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2025-07-04": 412,
+      "2025-07-04": 435,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -1277,11 +1277,11 @@
     "url": "$OC32_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-32-ubuntu-22-04-lts",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "24.16%",
-    "uptimeWeek": "20.54%",
-    "uptimeMonth": "67.83%",
+    "uptimeDay": "25.73%",
+    "uptimeWeek": "20.77%",
+    "uptimeMonth": "67.88%",
     "uptimeYear": "97.32%",
     "time": 112,
     "timeDay": 106,
@@ -1289,7 +1289,7 @@
     "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-07-04": 183,
+      "2025-07-04": 184,
       "2025-07-03": 1290,
       "2025-07-02": 1239,
       "2025-07-01": 1171,
@@ -1302,7 +1302,7 @@
       "2025-06-24": 1025,
       "2025-06-23": 1185,
       "2025-06-22": 1246,
-      "2025-06-21": 34
+      "2025-06-21": 15
     }
   },
   {
