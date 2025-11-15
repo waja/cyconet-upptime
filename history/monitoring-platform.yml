@@ -1,7 +1,7 @@
 url: https://$BB_HOST/icinga/
 status: down
 code: 404
-responseTime: 608
-lastUpdated: 2025-11-14T23:12:23.138Z
+responseTime: 490
+lastUpdated: 2025-11-15T23:12:13.503Z
 startTime: 2021-04-28T20:41:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
