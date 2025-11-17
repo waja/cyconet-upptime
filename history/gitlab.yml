@@ -1,7 +1,7 @@
 url: https://$GITLAB_HOST
-status: down
-code: 404
-responseTime: 783
-lastUpdated: 2025-11-17T16:54:07.106Z
+status: up
+code: 200
+responseTime: 1898
+lastUpdated: 2025-11-17T17:19:44.016Z
 startTime: 2021-04-28T20:41:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
