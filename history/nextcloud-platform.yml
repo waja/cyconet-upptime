@@ -1,7 +1,7 @@
 url: https://$NEXTCLOUD_HOST
 status: up
 code: 200
-responseTime: 919
-lastUpdated: 2026-05-04T23:45:58.436Z
+responseTime: 990
+lastUpdated: 2026-05-05T23:41:35.490Z
 startTime: 2021-04-28T20:41:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
