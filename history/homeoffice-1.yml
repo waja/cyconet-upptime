@@ -1,7 +1,7 @@
 url: $HO1_HOST
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-16T23:17:43.977Z
+status: up
+code: 200
+responseTime: 156
+lastUpdated: 2026-08-17T17:40:36.751Z
 startTime: 2021-04-28T20:41:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
