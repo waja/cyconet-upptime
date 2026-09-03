@@ -13,8 +13,8 @@
     "time": 643,
     "timeDay": 655,
     "timeWeek": 926,
-    "timeMonth": 696,
-    "timeYear": 634,
+    "timeMonth": 697,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2025-11-11": 127,
       "2026-02-10": 315,
@@ -37,7 +37,7 @@
     "time": 849,
     "timeDay": 933,
     "timeWeek": 961,
-    "timeMonth": 932,
+    "timeMonth": 939,
     "timeYear": 841,
     "dailyMinutesDown": {
       "2025-11-11": 127,
@@ -58,7 +58,7 @@
     "time": 129,
     "timeDay": 130,
     "timeWeek": 133,
-    "timeMonth": 132,
+    "timeMonth": 133,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-11-12": 17,
@@ -118,7 +118,7 @@
     "time": 606,
     "timeDay": 428,
     "timeWeek": 426,
-    "timeMonth": 573,
+    "timeMonth": 571,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2025-11-11": 158,
@@ -161,7 +161,7 @@
     "time": 129,
     "timeDay": 132,
     "timeWeek": 133,
-    "timeMonth": 132,
+    "timeMonth": 133,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2025-11-12": 15
@@ -198,7 +198,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.89%",
+    "uptimeYear": "96.91%",
     "time": 570,
     "timeDay": 365,
     "timeWeek": 393,
@@ -215,8 +215,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -233,7 +232,7 @@
     "time": 1102,
     "timeDay": 1145,
     "timeWeek": 1301,
-    "timeMonth": 1293,
+    "timeMonth": 1295,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2025-11-11": 158,
@@ -256,7 +255,7 @@
     "time": 1081,
     "timeDay": 1365,
     "timeWeek": 1292,
-    "timeMonth": 1301,
+    "timeMonth": 1304,
     "timeYear": 1093,
     "dailyMinutesDown": {
       "2025-11-11": 158,
@@ -277,7 +276,7 @@
     "time": 328,
     "timeDay": 534,
     "timeWeek": 532,
-    "timeMonth": 533,
+    "timeMonth": 534,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-09-22": 200,
@@ -291,18 +290,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
     "status": "down",
-    "uptime": "81.80%",
+    "uptime": "81.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.97%",
+    "uptimeYear": "3.94%",
     "time": 1872,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2192,
+    "timeYear": 2191,
     "dailyMinutesDown": {
-      "2026-09-02": 1342,
+      "2026-09-03": 25,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -669,7 +669,7 @@
     "time": 577,
     "timeDay": 586,
     "timeWeek": 564,
-    "timeMonth": 557,
+    "timeMonth": 554,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2025-10-28": 16,
@@ -682,17 +682,17 @@
     "url": "https://$GITLAB_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$gitlab_host.ico",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.94%",
-    "time": 1305,
-    "timeDay": 10125,
-    "timeWeek": 3608,
-    "timeMonth": 1926,
-    "timeYear": 1335,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "91.47%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.91%",
+    "time": 1306,
+    "timeDay": 7395,
+    "timeWeek": 3422,
+    "timeMonth": 1946,
+    "timeYear": 1337,
     "dailyMinutesDown": {
       "2025-10-09": 34,
       "2025-10-16": 24,
@@ -702,7 +702,8 @@
       "2025-12-11": 17,
       "2026-01-10": 16,
       "2026-03-26": 35,
-      "2026-09-02": 14
+      "2026-09-03": 11,
+      "2026-09-02": 112
     }
   },
   {
@@ -735,7 +736,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.89%",
+    "uptimeYear": "96.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -752,8 +753,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -803,7 +803,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-31-alma-linux-9",
     "status": "down",
-    "uptime": "59.73%",
+    "uptime": "59.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -814,7 +814,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 1342,
+      "2026-09-03": 25,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -1177,8 +1178,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -1205,19 +1205,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-33-oracle-linux-8",
     "status": "down",
-    "uptime": "97.99%",
+    "uptime": "97.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.79%",
-    "uptimeYear": "95.89%",
+    "uptimeMonth": "50.51%",
+    "uptimeYear": "95.87%",
     "time": 118,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 122,
+    "timeMonth": 123,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-04-20": 44,
-      "2026-09-02": 1343,
+      "2026-09-03": 25,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -1241,11 +1242,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-34-ubuntu-22-04-lts-arm64",
     "status": "down",
-    "uptime": "94.39%",
+    "uptime": "94.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.06%",
-    "uptimeYear": "95.92%",
+    "uptimeMonth": "50.78%",
+    "uptimeYear": "95.89%",
     "time": 118,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1253,7 +1254,8 @@
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-11-07": 22,
-      "2026-09-02": 1343,
+      "2026-09-03": 25,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
