@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.22%",
+    "uptimeWeek": "97.42%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.48%",
     "time": 639,
@@ -31,7 +31,7 @@
     "status": "up",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.22%",
+    "uptimeWeek": "97.42%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.74%",
     "time": 854,
@@ -110,7 +110,7 @@
     "status": "up",
     "uptime": "97.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.23%",
+    "uptimeWeek": "97.42%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.91%",
     "time": 575,
@@ -130,9 +130,9 @@
     "slug": "mail-smtp",
     "status": "down",
     "uptime": "80.65%",
-    "uptimeDay": "99.03%",
+    "uptimeDay": "97.63%",
     "uptimeWeek": "97.09%",
-    "uptimeMonth": "98.96%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "99.91%",
     "time": 128,
     "timeDay": 103,
@@ -141,7 +141,7 @@
     "timeYear": 129,
     "dailyMinutesDown": {
       "2026-11-06": 441,
-      "2026-11-13": 14
+      "2026-11-13": 34
     }
   },
   {
@@ -152,7 +152,7 @@
     "status": "up",
     "uptime": "80.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.22%",
+    "uptimeWeek": "97.42%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.92%",
     "time": 129,
@@ -172,7 +172,7 @@
     "status": "up",
     "uptime": "80.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.22%",
+    "uptimeWeek": "97.42%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "99.92%",
     "time": 129,
@@ -209,10 +209,10 @@
     "slug": "nextcloud-platform",
     "status": "down",
     "uptime": "97.99%",
-    "uptimeDay": "88.42%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.93%",
+    "uptimeDay": "87.02%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.92%",
     "time": 1170,
     "timeDay": 734,
     "timeWeek": 1166,
@@ -221,7 +221,7 @@
     "dailyMinutesDown": {
       "2026-03-27": 64,
       "2026-06-26": 162,
-      "2026-11-13": 167
+      "2026-11-13": 187
     }
   },
   {
@@ -232,7 +232,7 @@
     "status": "up",
     "uptime": "97.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.22%",
+    "uptimeWeek": "97.42%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "99.92%",
     "time": 1111,
@@ -279,7 +279,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-13": 351,
+      "2026-11-13": 371,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -785,7 +785,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-13": 352,
+      "2026-11-13": 372,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -1188,7 +1188,7 @@
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-04-20": 44,
-      "2026-11-13": 352,
+      "2026-11-13": 372,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -1295,7 +1295,7 @@
     "timeMonth": 0,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-11-13": 352,
+      "2026-11-13": 372,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
