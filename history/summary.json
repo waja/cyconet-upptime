@@ -14,7 +14,7 @@
     "timeDay": 433,
     "timeWeek": 593,
     "timeMonth": 659,
-    "timeYear": 634,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2026-02-10": 315,
       "2026-02-09": 38,
@@ -128,12 +128,12 @@
     "url": "$MAIL_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "80.62%",
-    "uptimeDay": "37.59%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "99.75%",
+    "uptimeDay": "36.62%",
+    "uptimeWeek": "90.95%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "99.74%",
     "time": 128,
     "timeDay": 103,
     "timeWeek": 124,
@@ -141,7 +141,8 @@
     "timeYear": 129,
     "dailyMinutesDown": {
       "2026-11-06": 441,
-      "2026-11-13": 899
+      "2026-11-13": 899,
+      "2026-11-14": 14
     }
   },
   {
@@ -170,7 +171,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-submission",
     "status": "up",
-    "uptime": "80.65%",
+    "uptime": "80.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.00%",
@@ -190,7 +191,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$bb_host.ico",
     "slug": "monitoring-platform",
     "status": "down",
-    "uptime": "74.46%",
+    "uptime": "74.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -207,21 +208,22 @@
     "url": "https://$NEXTCLOUD_HOST",
     "icon": "https://icons.duckduckgo.com/ip3/$nextcloud_host.ico",
     "slug": "nextcloud-platform",
-    "status": "down",
-    "uptime": "97.96%",
-    "uptimeDay": "25.99%",
-    "uptimeWeek": "89.43%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "99.75%",
+    "status": "up",
+    "uptime": "97.95%",
+    "uptimeDay": "8.26%",
+    "uptimeWeek": "86.89%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "99.71%",
     "time": 1170,
-    "timeDay": 734,
-    "timeWeek": 1166,
-    "timeMonth": 2012,
+    "timeDay": 874,
+    "timeWeek": 1147,
+    "timeMonth": 1981,
     "timeYear": 1215,
     "dailyMinutesDown": {
       "2026-03-27": 64,
       "2026-06-26": 162,
-      "2026-11-13": 1066
+      "2026-11-14": 66,
+      "2026-11-13": 1256
     }
   },
   {
@@ -239,7 +241,7 @@
     "timeDay": 1012,
     "timeWeek": 1203,
     "timeMonth": 1244,
-    "timeYear": 1141,
+    "timeYear": 1142,
     "dailyMinutesDown": {
       "2026-11-06": 440
     }
@@ -259,7 +261,7 @@
     "timeDay": 414,
     "timeWeek": 508,
     "timeMonth": 537,
-    "timeYear": 404,
+    "timeYear": 405,
     "dailyMinutesDown": {}
   },
   {
@@ -268,7 +270,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$paste_host.ico",
     "slug": "paste-system",
     "status": "down",
-    "uptime": "78.89%",
+    "uptime": "78.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -279,7 +281,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-13": 1250,
+      "2026-11-14": 80,
+      "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -642,8 +645,7 @@
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
-      "2025-11-15": 1440,
-      "2025-11-14": 1440
+      "2025-11-15": 1440
     }
   },
   {
@@ -681,7 +683,7 @@
     "timeDay": 1154,
     "timeWeek": 1451,
     "timeMonth": 1693,
-    "timeYear": 1442,
+    "timeYear": 1443,
     "dailyMinutesDown": {
       "2025-11-17": 26,
       "2025-12-11": 17,
@@ -742,7 +744,7 @@
     "timeDay": 107,
     "timeWeek": 134,
     "timeMonth": 137,
-    "timeYear": 145,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2025-12-30": 268,
       "2025-12-29": 663,
@@ -774,7 +776,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-31-alma-linux-9",
     "status": "down",
-    "uptime": "56.29%",
+    "uptime": "56.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -785,7 +787,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-13": 1251,
+      "2026-11-14": 80,
+      "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -1148,8 +1151,7 @@
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
-      "2025-11-15": 1440,
-      "2025-11-14": 1440
+      "2025-11-15": 1440
     }
   },
   {
@@ -1176,11 +1178,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-33-oracle-linux-8",
     "status": "down",
-    "uptime": "92.35%",
+    "uptime": "92.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.18%",
+    "uptimeYear": "76.13%",
     "time": 117,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1188,7 +1190,8 @@
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-04-20": 44,
-      "2026-11-13": 1251,
+      "2026-11-14": 80,
+      "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
@@ -1284,18 +1287,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle-cloud-34-ubuntu-22-04-lts-arm64",
     "status": "down",
-    "uptime": "88.95%",
+    "uptime": "88.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.21%",
+    "uptimeYear": "76.16%",
     "time": 117,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-11-13": 1251,
+      "2026-11-14": 80,
+      "2026-11-13": 1440,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
